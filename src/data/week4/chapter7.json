@@ -1,0 +1,21 @@
+{
+  "week": 4,
+  "chapter": 28,
+  "chapter_title": "問診票",
+  "kanji": [
+    { "number": 359, "character": "腹", "stroke_count": 13, "on_readings": ["フク"], "kun_readings": ["はら"], "words": [{ "word": "腹痛", "furigana": "ふくつう", "meaning": "stomachache" }] },
+    { "number": 360, "character": "背", "stroke_count": 9, "on_readings": ["セイ"], "kun_readings": ["せ", "なか"], "words": [{ "word": "背中", "furigana": "せなか", "meaning": "a back" }] },
+    { "number": 361, "character": "息", "stroke_count": 10, "on_readings": ["ソク"], "kun_readings": ["いき"], "words": [{ "word": "休息", "furigana": "きゅうそく", "meaning": "rest" }, { "word": "息", "furigana": "いき", "meaning": "a breath" }, { "word": "息子", "furigana": "むすこ", "meaning": "a son" }] },
+    { "number": 362, "character": "血", "stroke_count": 6, "on_readings": ["ケツ"], "kun_readings": ["ち"], "words": [{ "word": "高血圧", "furigana": "こうけつあつ", "meaning": "high blood pressure" }, { "word": "血液", "furigana": "けつえき", "meaning": "blood" }] },
+    { "number": 363, "character": "圧", "stroke_count": 5, "on_readings": ["アツ"], "kun_readings": [], "words": [{ "word": "圧力", "furigana": "あつりょく", "meaning": "pressure" }] },
+    { "number": 364, "character": "臓", "stroke_count": 19, "on_readings": ["ゾウ"], "kun_readings": [], "words": [{ "word": "心臓", "furigana": "しんぞう", "meaning": "a heart" }, { "word": "内臓", "furigana": "ないぞう", "meaning": "internal organs" }] },
+    { "number": 365, "character": "液", "stroke_count": 11, "on_readings": ["エキ"], "kun_readings": [], "words": [{ "word": "血液", "furigana": "けつえき", "meaning": "blood" }] },
+    { "number": 366, "character": "鼻", "stroke_count": 14, "on_readings": ["ビ"], "kun_readings": ["はな"], "words": [{ "word": "耳鼻科", "furigana": "じびか", "meaning": "otorhinolaryngology" }, { "word": "鼻", "furigana": "はな", "meaning": "a nose" }, { "word": "鼻水", "furigana": "はなみず", "meaning": "nasal mucous" }] },
+    { "number": 367, "character": "吸", "stroke_count": 6, "on_readings": ["キュウ"], "kun_readings": ["す-う"], "words": [{ "word": "呼吸", "furigana": "こきゅう", "meaning": "respiration" }, { "word": "吸収", "furigana": "きゅうしゅう", "meaning": "absorption" }, { "word": "吸う", "furigana": "すう", "meaning": "breathe/inhale" }] },
+    { "number": 368, "character": "眠", "stroke_count": 10, "on_readings": ["ミン"], "kun_readings": ["ねむ-い", "ねむ-る"], "words": [{ "word": "睡眠", "furigana": "すいみん", "meaning": "a sleep" }, { "word": "眠い", "furigana": "ねむい", "meaning": "sleepy" }, { "word": "眠る", "furigana": "ねむる", "meaning": "sleep" }, { "word": "居眠り", "furigana": "いねむり", "meaning": "doze" }] },
+    { "number": 369, "character": "欲", "stroke_count": 11, "on_readings": ["ヨク"], "kun_readings": ["ほ-しい"], "words": [{ "word": "食欲", "furigana": "しょくよく", "meaning": "appetite" }, { "word": "欲張り", "furigana": "よくばり", "meaning": "greed" }, { "word": "欲しい", "furigana": "ほしい", "meaning": "want" }] },
+    { "number": 370, "character": "疲", "stroke_count": 10, "on_readings": [], "kun_readings": ["つか-れる"], "words": [{ "word": "疲れる", "furigana": "つかれる", "meaning": "get tired/exhaust" }] },
+    { "number": 371, "character": "胃", "stroke_count": 9, "on_readings": ["イ"], "kun_readings": [], "words": [{ "word": "胃", "furigana": "い", "meaning": "a stomach" }, { "word": "胃腸", "furigana": "いちょう", "meaning": "a stomach and intestines" }] },
+    { "number": 372, "character": "胸", "stroke_count": 10, "on_readings": [], "kun_readings": ["むね"], "words": [{ "word": "胸", "furigana": "むね", "meaning": "a chest/breast" }] }
+  ]
+}

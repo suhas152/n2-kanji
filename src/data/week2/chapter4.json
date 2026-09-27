@@ -1,0 +1,177 @@
+{
+  "week": 2,
+  "chapter": 11,
+  "chapter_title": "家電のリモコン",
+  "kanji": [
+    {
+      "number": 129,
+      "character": "設",
+      "stroke_count": 11,
+      "on_readings": ["セツ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "設定", "furigana": "せってい", "meaning": "setting" },
+        { "word": "設計", "furigana": "せっけい", "meaning": "design/plan" },
+        { "word": "設備", "furigana": "せつび", "meaning": "equipment" }
+      ]
+    },
+    {
+      "number": 130,
+      "character": "換",
+      "stroke_count": 12,
+      "on_readings": ["カン"],
+      "kun_readings": ["か-える", "か-わる"],
+      "words": [
+        { "word": "換気", "furigana": "かんき", "meaning": "ventilation" },
+        { "word": "運転切換", "furigana": "うんてんきりかえ", "meaning": "change of mode of operation" },
+        { "word": "乗り換え", "furigana": "のりかえ", "meaning": "changing trains" }
+      ]
+    },
+    {
+      "number": 131,
+      "character": "向",
+      "stroke_count": 6,
+      "on_readings": ["コウ"],
+      "kun_readings": ["む-く", "む-ける", "む-かう", "む-こう"],
+      "words": [
+        { "word": "風向", "furigana": "ふうこう", "meaning": "wind direction" },
+        { "word": "＝風の向き", "furigana": "かぜのむき", "meaning": "wind direction" },
+        { "word": "向かい", "furigana": "むかい", "meaning": "the opposite side" },
+        { "word": "向こう", "furigana": "むこう", "meaning": "over there / beyond" }
+      ]
+    },
+    {
+      "number": 132,
+      "character": "停",
+      "stroke_count": 11,
+      "on_readings": ["テイ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "停止", "furigana": "ていし", "meaning": "stopping of" },
+        { "word": "停電", "furigana": "ていでん", "meaning": "electricity blackout" },
+        { "word": "停車", "furigana": "ていしゃ", "meaning": "stop a vehicle" }
+      ]
+    },
+    {
+      "number": 133,
+      "character": "暖",
+      "stroke_count": 13,
+      "on_readings": ["ダン"],
+      "kun_readings": ["あたた-かい", "あたた-まる", "あたた-める"],
+      "words": [
+        { "word": "暖房", "furigana": "だんぼう", "meaning": "heating" },
+        { "word": "温暖(な)", "furigana": "おんだん(な)", "meaning": "temperate" },
+        { "word": "暖かい", "furigana": "あたたかい", "meaning": "warm" }
+      ]
+    },
+    {
+      "number": 134,
+      "character": "除",
+      "stroke_count": 10,
+      "on_readings": ["ジョ", "ジ"],
+      "kun_readings": ["のぞ-く"],
+      "words": [
+        { "word": "除湿", "furigana": "じょしつ", "meaning": "dehumidification" },
+        { "word": "掃除", "furigana": "そうじ", "meaning": "cleaning" },
+        { "word": "除く", "furigana": "のぞく", "meaning": "remove/exclude" }
+      ]
+    },
+    {
+      "number": 135,
+      "character": "湿",
+      "stroke_count": 12,
+      "on_readings": ["シツ"],
+      "kun_readings": ["しめ-る"],
+      "words": [
+        { "word": "湿度", "furigana": "しつど", "meaning": "humidity" },
+        { "word": "湿気", "furigana": "しっき", "meaning": "humidity / moisture" },
+        { "word": "湿る", "furigana": "しめる", "meaning": "become damp/moist" }
+      ]
+    },
+    {
+      "number": 136,
+      "character": "標",
+      "stroke_count": 15,
+      "on_readings": ["ヒョウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "標準", "furigana": "ひょうじゅん", "meaning": "a standard" },
+        { "word": "目標", "furigana": "もくひょう", "meaning": "an aim/objective" },
+        { "word": "標本", "furigana": "ひょうほん", "meaning": "a specimen/sample" }
+      ]
+    },
+    {
+      "number": 137,
+      "character": "倍",
+      "stroke_count": 10,
+      "on_readings": ["バイ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "倍", "furigana": "ばい", "meaning": "double" },
+        { "word": "〜倍", "furigana": "〜ばい", "meaning": "times (quantity - e.g. two times as many)" }
+      ]
+    },
+    {
+      "number": 138,
+      "character": "巻",
+      "stroke_count": 9,
+      "on_readings": ["カン"],
+      "kun_readings": ["ま-く"],
+      "words": [
+        { "word": "〜巻", "furigana": "〜かん", "meaning": "volume ... (used for books with several volumes)" },
+        { "word": "巻く", "furigana": "まく", "meaning": "wind / roll up" },
+        { "word": "巻き戻し", "furigana": "まきもどし", "meaning": "rewinding" }
+      ]
+    },
+    {
+      "number": 139,
+      "character": "録",
+      "stroke_count": 16,
+      "on_readings": ["ロク"],
+      "kun_readings": [],
+      "words": [
+        { "word": "録画", "furigana": "ろくが", "meaning": "recording (video)" },
+        { "word": "録音", "furigana": "ろくおん", "meaning": "recording (sound)" }
+      ]
+    },
+    {
+      "number": 140,
+      "character": "量",
+      "stroke_count": 12,
+      "on_readings": ["リョウ"],
+      "kun_readings": ["はか-る"],
+      "words": [
+        { "word": "音量", "furigana": "おんりょう", "meaning": "sound volume" },
+        { "word": "風量", "furigana": "ふうりょう", "meaning": "air strength" },
+        { "word": "分量", "furigana": "ぶんりょう", "meaning": "quantity" },
+        { "word": "数量", "furigana": "すうりょう", "meaning": "amount" },
+        { "word": "量る", "furigana": "はかる", "meaning": "measure" }
+      ]
+    },
+    {
+      "number": 141,
+      "character": "予",
+      "stroke_count": 4,
+      "on_readings": ["ヨ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "予定", "furigana": "よてい", "meaning": "a plan/schedule" },
+        { "word": "予習", "furigana": "よしゅう", "meaning": "preparation (of lessons)" },
+        { "word": "予備", "furigana": "よび", "meaning": "a reserve/spare" },
+        { "word": "予算", "furigana": "よさん", "meaning": "budget/estimate" }
+      ]
+    },
+    {
+      "number": 142,
+      "character": "約",
+      "stroke_count": 9,
+      "on_readings": ["ヤク"],
+      "kun_readings": [],
+      "words": [
+        { "word": "予約", "furigana": "よやく", "meaning": "an appointment/reservation" },
+        { "word": "約〜", "furigana": "やく〜", "meaning": "approximately" },
+        { "word": "約束", "furigana": "やくそく", "meaning": "a promise/appointment" }
+      ]
+    }
+  ]
+}

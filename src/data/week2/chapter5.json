@@ -1,0 +1,181 @@
+{
+  "week": 2,
+  "chapter": 12,
+  "chapter_title": "電話・携帯電話",
+  "kanji": [
+    {
+      "number": 143,
+      "character": "帯",
+      "stroke_count": 10,
+      "on_readings": ["タイ"],
+      "kun_readings": ["おび"],
+      "words": [
+        { "word": "地帯", "furigana": "ちたい", "meaning": "a region/area" },
+        { "word": "温帯", "furigana": "おんたい", "meaning": "Temperate Zone" },
+        { "word": "携帯電話", "furigana": "けいたいでんわ", "meaning": "a cell phone / mobile phone" },
+        { "word": "帯", "furigana": "おび", "meaning": "a belt/sash" }
+      ]
+    },
+    {
+      "number": 144,
+      "character": "保",
+      "stroke_count": 9,
+      "on_readings": ["ホ"],
+      "kun_readings": ["たも-つ"],
+      "words": [
+        { "word": "保温", "furigana": "ほおん", "meaning": "retention of warmth" },
+        { "word": "保険", "furigana": "ほけん", "meaning": "insurance" },
+        { "word": "保湿", "furigana": "ほしつ", "meaning": "retention of moisture" },
+        { "word": "保つ", "furigana": "たもつ", "meaning": "keep/maintain" }
+      ]
+    },
+    {
+      "number": 145,
+      "character": "留",
+      "stroke_count": 10,
+      "on_readings": ["リュウ", "ル"],
+      "kun_readings": ["と-める", "と-まる"],
+      "words": [
+        { "word": "保留", "furigana": "ほりゅう", "meaning": "a reservation/suspension" },
+        { "word": "停留所", "furigana": "ていりゅうじょ", "meaning": "a (bus) stop/station" },
+        { "word": "留学", "furigana": "りゅうがく", "meaning": "studying abroad" },
+        { "word": "書留", "furigana": "かきとめ", "meaning": "registration (registered mail)" },
+        { "word": "留守", "furigana": "るす", "meaning": "absence (from home)" }
+      ]
+    },
+    {
+      "number": 146,
+      "character": "守",
+      "stroke_count": 6,
+      "on_readings": ["シュ", "ス"],
+      "kun_readings": ["まも-る"],
+      "words": [
+        { "word": "保守的(な)", "furigana": "ほしゅてき(な)", "meaning": "conservative" },
+        { "word": "守る", "furigana": "まもる", "meaning": "protect" },
+        { "word": "留守", "furigana": "るす", "meaning": "absence (from home)" },
+        { "word": "お守り", "furigana": "おまもり", "meaning": "a (good luck) charm" }
+      ]
+    },
+    {
+      "number": 147,
+      "character": "伝",
+      "stroke_count": 6,
+      "on_readings": ["デン"],
+      "kun_readings": ["つた-わる", "つた-える"],
+      "words": [
+        { "word": "伝言", "furigana": "でんごん", "meaning": "a message" },
+        { "word": "手伝う", "furigana": "てつだう", "meaning": "help" },
+        { "word": "伝える", "furigana": "つたえる", "meaning": "convey/communicate" }
+      ]
+    },
+    {
+      "number": 148,
+      "character": "済",
+      "stroke_count": 11,
+      "on_readings": ["サイ"],
+      "kun_readings": ["す-む", "す-ます"],
+      "words": [
+        { "word": "返済", "furigana": "へんさい", "meaning": "repayment" },
+        { "word": "済む", "furigana": "すむ", "meaning": "be finished/over" },
+        { "word": "〜済み", "furigana": "〜ずみ", "meaning": "completed" }
+      ]
+    },
+    {
+      "number": 149,
+      "character": "件",
+      "stroke_count": 6,
+      "on_readings": ["ケン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "用件", "furigana": "ようけん", "meaning": "a business/matter" },
+        { "word": "事件", "furigana": "じけん", "meaning": "an incident/crime" },
+        { "word": "件名", "furigana": "けんめい", "meaning": "subject" }
+      ]
+    },
+    {
+      "number": 150,
+      "character": "信",
+      "stroke_count": 9,
+      "on_readings": ["シン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "通信", "furigana": "つうしん", "meaning": "correspondence" },
+        { "word": "自信", "furigana": "じしん", "meaning": "confidence" },
+        { "word": "信じる", "furigana": "しんじる", "meaning": "believe" }
+      ]
+    },
+    {
+      "number": 151,
+      "character": "歴",
+      "stroke_count": 14,
+      "on_readings": ["レキ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "着信履歴", "furigana": "ちゃくしんりれき", "meaning": "record of calls received" },
+        { "word": "歴史", "furigana": "れきし", "meaning": "history" },
+        { "word": "履歴書", "furigana": "りれきしょ", "meaning": "a resume / curriculum vitae" }
+      ]
+    },
+    {
+      "number": 152,
+      "character": "箱",
+      "stroke_count": 15,
+      "on_readings": [],
+      "kun_readings": ["はこ"],
+      "words": [
+        { "word": "受信箱", "furigana": "じゅしんばこ", "meaning": "inbox" },
+        { "word": "ごみ箱", "furigana": "ごみばこ", "meaning": "a recycle bin / trash can" },
+        { "word": "送信箱", "furigana": "そうしんばこ", "meaning": "outbox" }
+      ]
+    },
+    {
+      "number": 153,
+      "character": "規",
+      "stroke_count": 11,
+      "on_readings": ["キ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "新規", "furigana": "しんき", "meaning": "new/fresh (e.g. a new business project)" },
+        { "word": "規定", "furigana": "きてい", "meaning": "regulation" }
+      ]
+    },
+    {
+      "number": 154,
+      "character": "変",
+      "stroke_count": 9,
+      "on_readings": ["ヘン"],
+      "kun_readings": ["か-わる", "か-える"],
+      "words": [
+        { "word": "変換", "furigana": "へんかん", "meaning": "conversion" },
+        { "word": "変わる", "furigana": "かわる", "meaning": "change" },
+        { "word": "大変(な)", "furigana": "たいへん(な)", "meaning": "very/serious" },
+        { "word": "変える", "furigana": "かえる", "meaning": "change (something)" }
+      ]
+    },
+    {
+      "number": 155,
+      "character": "選",
+      "stroke_count": 15,
+      "on_readings": ["セン"],
+      "kun_readings": ["えら-ぶ"],
+      "words": [
+        { "word": "選択", "furigana": "せんたく", "meaning": "a choice" },
+        { "word": "選考", "furigana": "せんこう", "meaning": "a selection" },
+        { "word": "選手", "furigana": "せんしゅ", "meaning": "a player / an athlete" },
+        { "word": "選ぶ", "furigana": "えらぶ", "meaning": "choose" }
+      ]
+    },
+    {
+      "number": 156,
+      "character": "決",
+      "stroke_count": 7,
+      "on_readings": ["ケツ"],
+      "kun_readings": ["き-める", "き-まる"],
+      "words": [
+        { "word": "決定", "furigana": "けってい", "meaning": "a decision" },
+        { "word": "決める", "furigana": "きめる", "meaning": "decide (something)" },
+        { "word": "決まる", "furigana": "きまる", "meaning": "be decided" }
+      ]
+    }
+  ]
+}

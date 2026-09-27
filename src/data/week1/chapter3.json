@@ -1,0 +1,155 @@
+{
+  "week": 1,
+  "chapter": 3,
+  "chapter_title": "建物の内外でよく見る表示",
+  "kanji": [
+    {
+      "number": 27,
+      "character": "営",
+      "stroke_count": 12,
+      "on_readings": ["エイ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "営業", "furigana": "えいぎょう", "meaning": "business" }
+      ]
+    },
+    {
+      "number": 28,
+      "character": "放",
+      "stroke_count": 8,
+      "on_readings": ["ホウ"],
+      "kun_readings": ["はな-す", "はな-れる"],
+      "words": [
+        { "word": "放送", "furigana": "ほうそう", "meaning": "a broadcast" },
+        { "word": "開放厳禁", "furigana": "かいほうげんきん", "meaning": "don't leave ... open (strictly prohibited)" },
+        { "word": "開放", "furigana": "かいほう", "meaning": "opening" },
+        { "word": "放す", "furigana": "はなす", "meaning": "let go" }
+      ]
+    },
+    {
+      "number": 29,
+      "character": "押",
+      "stroke_count": 8,
+      "on_readings": [],
+      "kun_readings": ["お-す", "お-さえる"],
+      "words": [
+        { "word": "押す", "furigana": "おす", "meaning": "push" },
+        { "word": "押さえる", "furigana": "おさえる", "meaning": "hold down" },
+        { "word": "押し入れ", "furigana": "おしいれ", "meaning": "a closet" }
+      ]
+    },
+    {
+      "number": 30,
+      "character": "準",
+      "stroke_count": 13,
+      "on_readings": ["ジュン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "準備", "furigana": "じゅんび", "meaning": "preparation" },
+        { "word": "準急", "furigana": "じゅんきゅう", "meaning": "a semi-express train" },
+        { "word": "水準", "furigana": "すいじゅん", "meaning": "a standard" },
+        { "word": "準決勝", "furigana": "じゅんけっしょう", "meaning": "semifinals" }
+      ]
+    },
+    {
+      "number": 31,
+      "character": "備",
+      "stroke_count": 12,
+      "on_readings": ["ビ"],
+      "kun_readings": ["そな-える", "そな-わる"],
+      "words": [
+        { "word": "備品", "furigana": "びひん", "meaning": "an equipment" },
+        { "word": "備える", "furigana": "そなえる", "meaning": "prepare" },
+        { "word": "備え付け(の)", "furigana": "そなえつけ(の)", "meaning": "furnished with / built-in" }
+      ]
+    },
+    {
+      "number": 32,
+      "character": "定",
+      "stroke_count": 8,
+      "on_readings": ["テイ", "ジョウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "定員", "furigana": "ていいん", "meaning": "capacity / allowed number of people" },
+        { "word": "定食", "furigana": "ていしょく", "meaning": "a set meal" },
+        { "word": "定休日", "furigana": "ていきび", "meaning": "set/regular holiday" },
+        { "word": "定規", "furigana": "じょうぎ", "meaning": "a ruler (for measuring)" }
+      ]
+    },
+    {
+      "number": 33,
+      "character": "流",
+      "stroke_count": 10,
+      "on_readings": ["リュウ"],
+      "kun_readings": ["なが-れる", "なが-す"],
+      "words": [
+        { "word": "流行", "furigana": "りゅうこう", "meaning": "fashion" },
+        { "word": "流れる", "furigana": "ながれる", "meaning": "flow" },
+        { "word": "流す", "furigana": "ながす", "meaning": "let flow (water, etc.)" },
+        { "word": "清流", "furigana": "せいりゅう", "meaning": "a clear stream" }
+      ]
+    },
+    {
+      "number": 34,
+      "character": "清",
+      "stroke_count": 11,
+      "on_readings": ["セイ"],
+      "kun_readings": ["きよ-い"],
+      "words": [
+        { "word": "清書", "furigana": "せいしょ", "meaning": "a clean copy" },
+        { "word": "清い", "furigana": "きよい", "meaning": "clean/pure" },
+        { "word": "清流", "furigana": "せいりゅう", "meaning": "a clear stream" },
+        { "word": "＝清い流れ", "furigana": "きよいながれ", "meaning": "a clear stream" }
+      ]
+    },
+    {
+      "number": 35,
+      "character": "掃",
+      "stroke_count": 11,
+      "on_readings": ["ソウ"],
+      "kun_readings": ["は-く"],
+      "words": [
+        { "word": "清掃", "furigana": "せいそう", "meaning": "cleaning" },
+        { "word": "掃く", "furigana": "はく", "meaning": "sweep" }
+      ]
+    },
+    {
+      "number": 36,
+      "character": "閉",
+      "stroke_count": 11,
+      "on_readings": ["ヘイ"],
+      "kun_readings": ["と-じる", "し-まる", "し-める"],
+      "words": [
+        { "word": "閉会", "furigana": "へいかい", "meaning": "closing of a meeting" },
+        { "word": "閉まる", "furigana": "しまる", "meaning": "shut/close" },
+        { "word": "閉める", "furigana": "しめる", "meaning": "shut/close ..." },
+        { "word": "閉店", "furigana": "へいてん", "meaning": "closing of a store" },
+        { "word": "(口・目・本を)閉じる", "furigana": "とじる", "meaning": "shut/close ..." }
+      ]
+    },
+    {
+      "number": 37,
+      "character": "点",
+      "stroke_count": 9,
+      "on_readings": ["テン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "点", "furigana": "てん", "meaning": "a point" },
+        { "word": "欠点", "furigana": "けってん", "meaning": "a shortcoming" },
+        { "word": "点検", "furigana": "てんけん", "meaning": "a check / an inspection" },
+        { "word": "〜点", "furigana": "〜てん", "meaning": "... points" }
+      ]
+    },
+    {
+      "number": 38,
+      "character": "検",
+      "stroke_count": 12,
+      "on_readings": ["ケン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "点検", "furigana": "てんけん", "meaning": "a check / an inspection" },
+        { "word": "検問", "furigana": "けんもん", "meaning": "an inspection" }
+      ]
+    }
+  ]
+}

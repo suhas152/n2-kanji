@@ -1,0 +1,170 @@
+{
+  "week": 1,
+  "chapter": 1,
+  "chapter_title": "立て札・注意書き",
+  "kanji": [
+    {
+      "number": 1,
+      "character": "禁",
+      "stroke_count": 13,
+      "on_readings": ["キン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "禁止", "furigana": "きんし", "meaning": "prohibition" }
+      ]
+    },
+    {
+      "number": 2,
+      "character": "煙",
+      "stroke_count": 13,
+      "on_readings": ["エン"],
+      "kun_readings": ["けむり"],
+      "words": [
+        { "word": "禁煙", "furigana": "きんえん", "meaning": "no smoking" },
+        { "word": "煙", "furigana": "けむり", "meaning": "smoke" }
+      ]
+    },
+    {
+      "number": 3,
+      "character": "静",
+      "stroke_count": 14,
+      "on_readings": ["セイ"],
+      "kun_readings": ["しず-か", "しず-まる"],
+      "words": [
+        { "word": "安静(な)", "furigana": "あんせい(な)", "meaning": "quietly" },
+        { "word": "静か(な)", "furigana": "しずか(な)", "meaning": "quiet" },
+        { "word": "静まる", "furigana": "しずまる", "meaning": "become quiet" }
+      ]
+    },
+    {
+      "number": 4,
+      "character": "危",
+      "stroke_count": 6,
+      "on_readings": ["キ"],
+      "kun_readings": ["あぶ-ない", "あや-うい"],
+      "words": [
+        { "word": "危機", "furigana": "きき", "meaning": "a crisis" },
+        { "word": "危ない", "furigana": "あぶない", "meaning": "dangerous" },
+        { "word": "危険(な)", "furigana": "きけん(な)", "meaning": "dangerous" },
+        { "word": "危うい", "furigana": "あやうい", "meaning": "dangerous / narrow" }
+      ]
+    },
+    {
+      "number": 5,
+      "character": "険",
+      "stroke_count": 11,
+      "on_readings": ["ケン"],
+      "kun_readings": ["けわ-しい"],
+      "words": [
+        { "word": "危険(な)", "furigana": "きけん(な)", "meaning": "dangerous" },
+        { "word": "険しい", "furigana": "けわしい", "meaning": "steep" }
+      ]
+    },
+    {
+      "number": 6,
+      "character": "関",
+      "stroke_count": 14,
+      "on_readings": ["カン"],
+      "kun_readings": ["かか-わる"],
+      "words": [
+        { "word": "関心", "furigana": "かんしん", "meaning": "an interest" },
+        { "word": "関わる", "furigana": "かかわる", "meaning": "have to do with" },
+        { "word": "(〜に)関する", "furigana": "(〜に)かんする", "meaning": "related to" }
+      ]
+    },
+    {
+      "number": 7,
+      "character": "係",
+      "stroke_count": 9,
+      "on_readings": ["ケイ"],
+      "kun_readings": ["かかり"],
+      "words": [
+        { "word": "関係", "furigana": "かんけい", "meaning": "a relation / connection" },
+        { "word": "係", "furigana": "かかり", "meaning": "charge / a person in charge" },
+        { "word": "係員", "furigana": "かかりいん", "meaning": "a person in charge" }
+      ]
+    },
+    {
+      "number": 8,
+      "character": "落",
+      "stroke_count": 12,
+      "on_readings": ["ラク"],
+      "kun_readings": ["お-ちる", "お-とす"],
+      "words": [
+        { "word": "転落", "furigana": "てんらく", "meaning": "a fall" },
+        { "word": "落ちる", "furigana": "おちる", "meaning": "fall" },
+        { "word": "落石", "furigana": "らくせき", "meaning": "falling rocks" },
+        { "word": "落第", "furigana": "らくだい", "meaning": "failing/repeating a course" },
+        { "word": "落とす", "furigana": "おとす", "meaning": "drop" }
+      ]
+    },
+    {
+      "number": 9,
+      "character": "石",
+      "stroke_count": 5,
+      "on_readings": ["セキ", "シャク"],
+      "kun_readings": ["いし"],
+      "words": [
+        { "word": "落石", "furigana": "らくせき", "meaning": "falling rocks" },
+        { "word": "石", "furigana": "いし", "meaning": "a stone" },
+        { "word": "磁石", "furigana": "じしゃく", "meaning": "a magnet / compass" }
+      ]
+    },
+    {
+      "number": 10,
+      "character": "飛",
+      "stroke_count": 9,
+      "on_readings": ["ヒ"],
+      "kun_readings": ["と-ぶ", "と-ばす"],
+      "words": [
+        { "word": "飛行場", "furigana": "ひこうじょう", "meaning": "an airport" },
+        { "word": "飛ぶ", "furigana": "とぶ", "meaning": "fly" },
+        { "word": "飛び出す", "furigana": "とびだす", "meaning": "run out suddenly" }
+      ]
+    },
+    {
+      "number": 11,
+      "character": "駐",
+      "stroke_count": 15,
+      "on_readings": ["チュウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "駐車場", "furigana": "ちゅうしゃじょう", "meaning": "a parking lot" },
+        { "word": "駐車", "furigana": "ちゅうしゃ", "meaning": "parking" }
+      ]
+    },
+    {
+      "number": 12,
+      "character": "捨",
+      "stroke_count": 11,
+      "on_readings": ["シャ"],
+      "kun_readings": ["す-てる"],
+      "words": [
+        { "word": "四捨五入", "furigana": "ししゃごにゅう", "meaning": "round to the nearest (e.g. decimal place)" },
+        { "word": "捨てる", "furigana": "すてる", "meaning": "throw away" }
+      ]
+    },
+    {
+      "number": 13,
+      "character": "遊",
+      "stroke_count": 12,
+      "on_readings": ["ユウ"],
+      "kun_readings": ["あそ-ぶ"],
+      "words": [
+        { "word": "遊泳", "furigana": "ゆうえい", "meaning": "swimming" },
+        { "word": "遊ぶ", "furigana": "あそぶ", "meaning": "play" }
+      ]
+    },
+    {
+      "number": 14,
+      "character": "泳",
+      "stroke_count": 8,
+      "on_readings": ["エイ"],
+      "kun_readings": ["およ-ぐ"],
+      "words": [
+        { "word": "水泳", "furigana": "すいえい", "meaning": "swimming" },
+        { "word": "泳ぐ", "furigana": "およぐ", "meaning": "swim" }
+      ]
+    }
+  ]
+}

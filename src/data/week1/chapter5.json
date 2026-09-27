@@ -1,0 +1,177 @@
+{
+  "week": 1,
+  "chapter": 5,
+  "chapter_title": "乗り物でよく見る表示",
+  "kanji": [
+    {
+      "number": 53,
+      "character": "港",
+      "stroke_count": 12,
+      "on_readings": ["コウ"],
+      "kun_readings": ["みなと"],
+      "words": [
+        { "word": "空港", "furigana": "くうこう", "meaning": "an airport" },
+        { "word": "港", "furigana": "みなと", "meaning": "a port" }
+      ]
+    },
+    {
+      "number": 54,
+      "character": "由",
+      "stroke_count": 5,
+      "on_readings": ["ユ", "ユウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "理由", "furigana": "りゆう", "meaning": "a reason" },
+        { "word": "経由", "furigana": "けいゆ", "meaning": "via" },
+        { "word": "不自由(な)", "furigana": "ふじゆう(な)", "meaning": "disability / inconvenience" }
+      ]
+    },
+    {
+      "number": 55,
+      "character": "深",
+      "stroke_count": 11,
+      "on_readings": ["シン"],
+      "kun_readings": ["ふか-い", "ふか-まる"],
+      "words": [
+        { "word": "深夜", "furigana": "しんや", "meaning": "midnight" },
+        { "word": "深い", "furigana": "ふかい", "meaning": "deep" },
+        { "word": "深刻(な)", "furigana": "しんこく(な)", "meaning": "serious" }
+      ]
+    },
+    {
+      "number": 56,
+      "character": "降",
+      "stroke_count": 10,
+      "on_readings": ["コウ"],
+      "kun_readings": ["お-りる", "お-ろす", "ふ-る"],
+      "words": [
+        { "word": "降車口", "furigana": "こうしゃぐち", "meaning": "an exit (for getting off)" },
+        { "word": "降りる", "furigana": "おりる", "meaning": "get off" },
+        { "word": "下降", "furigana": "かこう", "meaning": "descent/fall" },
+        { "word": "降る", "furigana": "ふる", "meaning": "fall" }
+      ]
+    },
+    {
+      "number": 57,
+      "character": "両",
+      "stroke_count": 6,
+      "on_readings": ["リョウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "両親", "furigana": "りょうしん", "meaning": "parents" },
+        { "word": "両〜", "furigana": "りょう〜", "meaning": "both" },
+        { "word": "両方", "furigana": "りょうほう", "meaning": "both" },
+        { "word": "〜両目", "furigana": "〜りょうめ", "meaning": "first/second ... car" }
+      ]
+    },
+    {
+      "number": 58,
+      "character": "替",
+      "stroke_count": 12,
+      "on_readings": [],
+      "kun_readings": ["か-える", "か-わる"],
+      "words": [
+        { "word": "両替", "furigana": "りょうがえ", "meaning": "exchange of money" },
+        { "word": "為替", "furigana": "かわせ", "meaning": "exchange / a money order" },
+        { "word": "着替える", "furigana": "きがえる", "meaning": "change one's clothes" }
+      ]
+    },
+    {
+      "number": 59,
+      "character": "賃",
+      "stroke_count": 13,
+      "on_readings": ["チン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "家賃", "furigana": "やちん", "meaning": "rent" },
+        { "word": "運賃", "furigana": "うんちん", "meaning": "fare" }
+      ]
+    },
+    {
+      "number": 60,
+      "character": "割",
+      "stroke_count": 12,
+      "on_readings": ["カツ"],
+      "kun_readings": ["わる", "われる", "わり"],
+      "words": [
+        { "word": "分割", "furigana": "ぶんかつ", "meaning": "a split / separation" },
+        { "word": "割引", "furigana": "わりびき", "meaning": "a discount" },
+        { "word": "割れる", "furigana": "われる", "meaning": "crack/cleave" },
+        { "word": "時間割", "furigana": "じかんわり", "meaning": "school timetable" }
+      ]
+    },
+    {
+      "number": 61,
+      "character": "増",
+      "stroke_count": 14,
+      "on_readings": ["ゾウ"],
+      "kun_readings": ["ふ-える", "ふ-やす", "ま-す"],
+      "words": [
+        { "word": "増加", "furigana": "ぞうか", "meaning": "an increase" },
+        { "word": "増える", "furigana": "ふえる", "meaning": "increase" },
+        { "word": "割増", "furigana": "わりまし", "meaning": "an extra (proportional increase)" }
+      ]
+    },
+    {
+      "number": 62,
+      "character": "優",
+      "stroke_count": 17,
+      "on_readings": ["ユウ"],
+      "kun_readings": ["やさ-しい", "すぐ-れる"],
+      "words": [
+        { "word": "優先", "furigana": "ゆうせん", "meaning": "priority" },
+        { "word": "優しい", "furigana": "やさしい", "meaning": "kind" },
+        { "word": "優れる", "furigana": "すぐれる", "meaning": "excel" }
+      ]
+    },
+    {
+      "number": 63,
+      "character": "席",
+      "stroke_count": 10,
+      "on_readings": ["セキ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "席", "furigana": "せき", "meaning": "a seat" },
+        { "word": "指定席", "furigana": "していせき", "meaning": "a reserved seat" },
+        { "word": "出席", "furigana": "しゅっせき", "meaning": "attendance" }
+      ]
+    },
+    {
+      "number": 64,
+      "character": "側",
+      "stroke_count": 11,
+      "on_readings": ["ソク"],
+      "kun_readings": ["かわ"],
+      "words": [
+        { "word": "側面", "furigana": "そくめん", "meaning": "the side/flank" },
+        { "word": "両側", "furigana": "りょうがわ", "meaning": "both sides" },
+        { "word": "〜側", "furigana": "〜がわ", "meaning": "the side of ..." }
+      ]
+    },
+    {
+      "number": 65,
+      "character": "座",
+      "stroke_count": 10,
+      "on_readings": ["ザ"],
+      "kun_readings": ["すわ-る"],
+      "words": [
+        { "word": "座席", "furigana": "ざせき", "meaning": "a seat" },
+        { "word": "座る", "furigana": "すわる", "meaning": "sit" },
+        { "word": "銀行口座", "furigana": "ぎんこうこうざ", "meaning": "a bank account" }
+      ]
+    },
+    {
+      "number": 66,
+      "character": "寄",
+      "stroke_count": 11,
+      "on_readings": ["キ"],
+      "kun_readings": ["よ-る", "よ-せる"],
+      "words": [
+        { "word": "寄付", "furigana": "きふ", "meaning": "a donation" },
+        { "word": "立ち寄る", "furigana": "たちよる", "meaning": "drop in" },
+        { "word": "取り寄せる", "furigana": "とりよせる", "meaning": "order ..." },
+        { "word": "年寄り", "furigana": "としより", "meaning": "an old person" }
+      ]
+    }
+  ]
+}

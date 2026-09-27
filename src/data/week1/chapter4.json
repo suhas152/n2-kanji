@@ -1,0 +1,166 @@
+{
+  "week": 1,
+  "chapter": 4,
+  "chapter_title": "駅でよく見る表示",
+  "kanji": [
+    {
+      "number": 39,
+      "character": "鉄",
+      "stroke_count": 13,
+      "on_readings": ["テツ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "地下鉄", "furigana": "ちかてつ", "meaning": "the subway" },
+        { "word": "私鉄", "furigana": "してつ", "meaning": "a private railway" }
+      ]
+    },
+    {
+      "number": 40,
+      "character": "窓",
+      "stroke_count": 11,
+      "on_readings": ["ソウ"],
+      "kun_readings": ["まど"],
+      "words": [
+        { "word": "同窓会", "furigana": "どうそうかい", "meaning": "a school reunion" },
+        { "word": "窓", "furigana": "まど", "meaning": "a window" },
+        { "word": "窓口", "furigana": "まどぐち", "meaning": "a (service) window" }
+      ]
+    },
+    {
+      "number": 41,
+      "character": "符",
+      "stroke_count": 11,
+      "on_readings": ["フ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "切符", "furigana": "きっぷ", "meaning": "a ticket" }
+      ]
+    },
+    {
+      "number": 42,
+      "character": "精",
+      "stroke_count": 14,
+      "on_readings": ["セイ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "精算", "furigana": "せいさん", "meaning": "a (fare) adjustment" },
+        { "word": "精神", "furigana": "せいしん", "meaning": "spirit/mind" }
+      ]
+    },
+    {
+      "number": 43,
+      "character": "算",
+      "stroke_count": 14,
+      "on_readings": ["サン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "計算", "furigana": "けいさん", "meaning": "calculation" },
+        { "word": "足し算", "furigana": "たしざん", "meaning": "addition" },
+        { "word": "引き算", "furigana": "ひきざん", "meaning": "subtraction" }
+      ]
+    },
+    {
+      "number": 44,
+      "character": "改",
+      "stroke_count": 7,
+      "on_readings": ["カイ"],
+      "kun_readings": ["あらた-める", "あらた-まる"],
+      "words": [
+        { "word": "改正", "furigana": "かいせい", "meaning": "an amendment" },
+        { "word": "改める", "furigana": "あらためる", "meaning": "1. change 2. check" }
+      ]
+    },
+    {
+      "number": 45,
+      "character": "札",
+      "stroke_count": 5,
+      "on_readings": ["サツ"],
+      "kun_readings": ["ふだ"],
+      "words": [
+        { "word": "改札口", "furigana": "かいさつぐち", "meaning": "a ticket gate" },
+        { "word": "札", "furigana": "ふだ", "meaning": "a card" },
+        { "word": "1万円札", "furigana": "いちまんえんさつ", "meaning": "a 10,000 yen note" }
+      ]
+    },
+    {
+      "number": 46,
+      "character": "線",
+      "stroke_count": 15,
+      "on_readings": ["セン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "下線", "furigana": "かせん", "meaning": "an underline" },
+        { "word": "新幹線", "furigana": "しんかんせん", "meaning": "a bullet train" },
+        { "word": "線路", "furigana": "せんろ", "meaning": "a railway track" }
+      ]
+    },
+    {
+      "number": 47,
+      "character": "刻",
+      "stroke_count": 8,
+      "on_readings": ["コク"],
+      "kun_readings": ["きざ-む"],
+      "words": [
+        { "word": "時刻", "furigana": "じこく", "meaning": "time" },
+        { "word": "刻む", "furigana": "きざむ", "meaning": "engrave" }
+      ]
+    },
+    {
+      "number": 48,
+      "character": "番",
+      "stroke_count": 12,
+      "on_readings": ["バン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "番号", "furigana": "ばんごう", "meaning": "number" },
+        { "word": "〜番線", "furigana": "〜ばんせん", "meaning": "line (platform) number ..." }
+      ]
+    },
+    {
+      "number": 49,
+      "character": "号",
+      "stroke_count": 5,
+      "on_readings": ["ゴウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "符号", "furigana": "ふごう", "meaning": "a symbol/sign" },
+        { "word": "信号", "furigana": "しんごう", "meaning": "a signal" },
+        { "word": "〜号車", "furigana": "〜ごうしゃ", "meaning": "carriage number ..." }
+      ]
+    },
+    {
+      "number": 50,
+      "character": "快",
+      "stroke_count": 7,
+      "on_readings": ["カイ"],
+      "kun_readings": ["こころよ-い"],
+      "words": [
+        { "word": "快速", "furigana": "かいそく", "meaning": "high speed" },
+        { "word": "快い", "furigana": "こころよい", "meaning": "pleasant" }
+      ]
+    },
+    {
+      "number": 51,
+      "character": "速",
+      "stroke_count": 10,
+      "on_readings": ["ソク"],
+      "kun_readings": ["はや-い"],
+      "words": [
+        { "word": "時速", "furigana": "じそく", "meaning": "speed (per hour)" },
+        { "word": "速い", "furigana": "はやい", "meaning": "fast" },
+        { "word": "早速", "furigana": "さっそく", "meaning": "at once" }
+      ]
+    },
+    {
+      "number": 52,
+      "character": "路",
+      "stroke_count": 13,
+      "on_readings": ["ロ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "道路", "furigana": "どうろ", "meaning": "a road" },
+        { "word": "通路", "furigana": "つうろ", "meaning": "an aisle" }
+      ]
+    }
+  ]
+}

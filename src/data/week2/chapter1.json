@@ -1,0 +1,179 @@
+{
+  "week": 2,
+  "chapter": 8,
+  "chapter_title": "自動券売機",
+  "kanji": [
+    {
+      "number": 87,
+      "character": "普",
+      "stroke_count": 12,
+      "on_readings": ["フ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "普通", "furigana": "ふつう", "meaning": "ordinary" },
+        { "word": "普段(の)", "furigana": "ふだん(の)", "meaning": "usually" }
+      ]
+    },
+    {
+      "number": 88,
+      "character": "券",
+      "stroke_count": 8,
+      "on_readings": ["ケン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "回数券", "furigana": "かいすうけん", "meaning": "a (book of) commuter ticket(s)" },
+        { "word": "乗車券", "furigana": "じょうしゃけん", "meaning": "a (boarding) ticket" },
+        { "word": "旅券", "furigana": "りょけん", "meaning": "a passport" },
+        { "word": "発券", "furigana": "はっけん", "meaning": "the issue of a ticket" }
+      ]
+    },
+    {
+      "number": 89,
+      "character": "数",
+      "stroke_count": 13,
+      "on_readings": ["スウ"],
+      "kun_readings": ["かぞ-える"],
+      "words": [
+        { "word": "数字", "furigana": "すうじ", "meaning": "number" },
+        { "word": "数学", "furigana": "すうがく", "meaning": "mathematics" },
+        { "word": "点数", "furigana": "てんすう", "meaning": "score/points" },
+        { "word": "数を数える", "furigana": "かずをかぞえる", "meaning": "count numbers" }
+      ]
+    },
+    {
+      "number": 90,
+      "character": "機",
+      "stroke_count": 16,
+      "on_readings": ["キ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "飛行機", "furigana": "ひこうき", "meaning": "an airplane" },
+        { "word": "交通機関", "furigana": "こうつうきかん", "meaning": "a means of transportation" },
+        { "word": "自動券売機", "furigana": "じどうけんばいき", "meaning": "an automatic ticket machine" },
+        { "word": "危機", "furigana": "きき", "meaning": "a crisis" }
+      ]
+    },
+    {
+      "number": 91,
+      "character": "復",
+      "stroke_count": 12,
+      "on_readings": ["フク"],
+      "kun_readings": [],
+      "words": [
+        { "word": "復習", "furigana": "ふくしゅう", "meaning": "a review" },
+        { "word": "往復", "furigana": "おうふく", "meaning": "a round trip" },
+        { "word": "回復", "furigana": "かいふく", "meaning": "recovery/recuperation" }
+      ]
+    },
+    {
+      "number": 92,
+      "character": "片",
+      "stroke_count": 4,
+      "on_readings": ["ヘン"],
+      "kun_readings": ["かた"],
+      "words": [
+        { "word": "破片", "furigana": "はへん", "meaning": "fragment" },
+        { "word": "片道切符", "furigana": "かたみちきっぷ", "meaning": "an one-way ticket" },
+        { "word": "片付ける", "furigana": "かたづける", "meaning": "tidy up" },
+        { "word": "片〜", "furigana": "かた〜", "meaning": "one side" }
+      ]
+    },
+    {
+      "number": 93,
+      "character": "枚",
+      "stroke_count": 8,
+      "on_readings": ["マイ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "〜枚", "furigana": "〜まい", "meaning": "counter for flat objects" },
+        { "word": "枚数", "furigana": "まいすう", "meaning": "number of (flat objects, e.g. tickets)" }
+      ]
+    },
+    {
+      "number": 94,
+      "character": "期",
+      "stroke_count": 12,
+      "on_readings": ["キ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "期間", "furigana": "きかん", "meaning": "a period of time" },
+        { "word": "定期", "furigana": "ていき", "meaning": "a fixed period of time" },
+        { "word": "定期券", "furigana": "ていきけん", "meaning": "a commuter pass" }
+      ]
+    },
+    {
+      "number": 95,
+      "character": "販",
+      "stroke_count": 11,
+      "on_readings": ["ハン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "販売", "furigana": "はんばい", "meaning": "selling" },
+        { "word": "自動販売機", "furigana": "じどうはんばいき", "meaning": "a vending machine" }
+      ]
+    },
+    {
+      "number": 96,
+      "character": "指",
+      "stroke_count": 9,
+      "on_readings": ["シ"],
+      "kun_readings": ["ゆび", "さ-す"],
+      "words": [
+        { "word": "指定席", "furigana": "していせき", "meaning": "a reserved seat" },
+        { "word": "指", "furigana": "ゆび", "meaning": "a finger" },
+        { "word": "指す", "furigana": "さす", "meaning": "point" }
+      ]
+    },
+    {
+      "number": 97,
+      "character": "調",
+      "stroke_count": 15,
+      "on_readings": ["チョウ"],
+      "kun_readings": ["しら-べる"],
+      "words": [
+        { "word": "調整", "furigana": "ちょうせい", "meaning": "an adjustment" },
+        { "word": "調子", "furigana": "ちょうし", "meaning": "condition" },
+        { "word": "調べる", "furigana": "しらべる", "meaning": "look up something / investigate" }
+      ]
+    },
+    {
+      "number": 98,
+      "character": "整",
+      "stroke_count": 16,
+      "on_readings": ["セイ"],
+      "kun_readings": ["ととの-う"],
+      "words": [
+        { "word": "整理券", "furigana": "せいりけん", "meaning": "numbered ticket (issued at cinemas, etc. indicate the order in which people may enter)" },
+        { "word": "整備", "furigana": "せいび", "meaning": "maintenance/overhaul" },
+        { "word": "整う", "furigana": "ととのう", "meaning": "be tidy" }
+      ]
+    },
+    {
+      "number": 99,
+      "character": "表",
+      "stroke_count": 8,
+      "on_readings": ["ヒョウ"],
+      "kun_readings": ["おもて", "あらわ-す", "あらわ-れる"],
+      "words": [
+        { "word": "表", "furigana": "ひょう", "meaning": "table (in written documents)" },
+        { "word": "時刻表", "furigana": "じこくひょう", "meaning": "a timetable" },
+        { "word": "発表", "furigana": "はっぴょう", "meaning": "an announcement" },
+        { "word": "表", "furigana": "おもて", "meaning": "surface/face" },
+        { "word": "表す", "furigana": "あらわす", "meaning": "show/express" }
+      ]
+    },
+    {
+      "number": 100,
+      "character": "示",
+      "stroke_count": 5,
+      "on_readings": ["ジ"],
+      "kun_readings": ["しめ-す"],
+      "words": [
+        { "word": "表示", "furigana": "ひょうじ", "meaning": "indication/expression" },
+        { "word": "指示", "furigana": "しじ", "meaning": "an instruction" },
+        { "word": "掲示", "furigana": "けいじ", "meaning": "a notice" },
+        { "word": "示す", "furigana": "しめす", "meaning": "show / point out" }
+      ]
+    }
+  ]
+}

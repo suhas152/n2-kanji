@@ -1,0 +1,13 @@
+{
+  "week": 3,
+  "chapter": 21,
+  "chapter_title": "記号的な漢字 未⇔済",
+  "kanji": [
+    { "number": 264, "character": "昨", "stroke_count": 9, "on_readings": ["サク"], "kun_readings": [], "words": [{ "word": "昨〜", "furigana": "さく〜", "meaning": "last ..." }] },
+    { "number": 265, "character": "翌", "stroke_count": 11, "on_readings": ["ヨク"], "kun_readings": [], "words": [{ "word": "翌〜", "furigana": "よく〜", "meaning": "the following ..." }] },
+    { "number": 266, "character": "軒", "stroke_count": 10, "on_readings": ["ケン"], "kun_readings": [], "words": [{ "word": "〜軒", "furigana": "〜けん", "meaning": "counter for buildings" }] },
+    { "number": 267, "character": "毒", "stroke_count": 8, "on_readings": ["ドク"], "kun_readings": [], "words": [{ "word": "中毒", "furigana": "ちゅうどく", "meaning": "addiction / poisoning" }, { "word": "気の毒(な)", "furigana": "きのどく(な)", "meaning": "pity (pitiful)" }, { "word": "消毒", "furigana": "しょうどく", "meaning": "disinfection/sterilization" }] },
+    { "number": 268, "character": "涙", "stroke_count": 10, "on_readings": [], "kun_readings": ["なみだ"], "words": [{ "word": "涙", "furigana": "なみだ", "meaning": "tear(s)" }] },
+    { "number": 269, "character": "笑", "stroke_count": 10, "on_readings": [], "kun_readings": ["わら-う", "え-む"], "words": [{ "word": "笑う", "furigana": "わらう", "meaning": "laugh/smile" }, { "word": "笑顔", "furigana": "えがお", "meaning": "a smile / smiling face" }] }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "week": 2,
+  "chapter": 9,
+  "chapter_title": "現金自動支払機",
+  "kanji": [
+    {
+      "number": 101,
+      "character": "現",
+      "stroke_count": 11,
+      "on_readings": ["ゲン"],
+      "kun_readings": ["あらわ-れる", "あらわ-す"],
+      "words": [
+        { "word": "現金", "furigana": "げんきん", "meaning": "cash" },
+        { "word": "表現", "furigana": "ひょうげん", "meaning": "an expression" },
+        { "word": "現れる", "furigana": "あらわれる", "meaning": "appear" }
+      ]
+    },
+    {
+      "number": 102,
+      "character": "支",
+      "stroke_count": 4,
+      "on_readings": ["シ"],
+      "kun_readings": ["ささ-える"],
+      "words": [
+        { "word": "支店", "furigana": "してん", "meaning": "a branch shop/office" },
+        { "word": "支持", "furigana": "しじ", "meaning": "support" },
+        { "word": "支える", "furigana": "ささえる", "meaning": "support" }
+      ]
+    },
+    {
+      "number": 103,
+      "character": "払",
+      "stroke_count": 5,
+      "on_readings": [],
+      "kun_readings": ["はら-う"],
+      "words": [
+        { "word": "払う", "furigana": "はらう", "meaning": "pay / sweep away" },
+        { "word": "支払機", "furigana": "しはらいき", "meaning": "a machine for dispensing cash" },
+        { "word": "支払う", "furigana": "しはらう", "meaning": "pay" }
+      ]
+    },
+    {
+      "number": 104,
+      "character": "預",
+      "stroke_count": 13,
+      "on_readings": ["ヨ"],
+      "kun_readings": ["あず-ける", "あず-かる"],
+      "words": [
+        { "word": "預金", "furigana": "よきん", "meaning": "a deposit" },
+        { "word": "預ける", "furigana": "あずける", "meaning": "entrust" },
+        { "word": "預かる", "furigana": "あずかる", "meaning": "keep / take charge of" }
+      ]
+    },
+    {
+      "number": 105,
+      "character": "戻",
+      "stroke_count": 7,
+      "on_readings": [],
+      "kun_readings": ["もど-す", "もど-る"],
+      "words": [
+        { "word": "払い戻し", "furigana": "はらいもどし", "meaning": "a refund" },
+        { "word": "戻る", "furigana": "もどる", "meaning": "return" }
+      ]
+    },
+    {
+      "number": 106,
+      "character": "残",
+      "stroke_count": 10,
+      "on_readings": ["ザン"],
+      "kun_readings": ["のこ-る", "のこ-す"],
+      "words": [
+        { "word": "残高照会", "furigana": "ざんだかしょうかい", "meaning": "an account balance inquiry" },
+        { "word": "残る", "furigana": "のこる", "meaning": "remain" },
+        { "word": "残す", "furigana": "のこす", "meaning": "leave / leave behind" }
+      ]
+    },
+    {
+      "number": 107,
+      "character": "照",
+      "stroke_count": 13,
+      "on_readings": ["ショウ"],
+      "kun_readings": ["て-る", "て-らす"],
+      "words": [
+        { "word": "照明", "furigana": "しょうめい", "meaning": "illumination/light" },
+        { "word": "照らす", "furigana": "てらす", "meaning": "light up" },
+        { "word": "対照的", "furigana": "たいしょうてき", "meaning": "being contrastive" }
+      ]
+    },
+    {
+      "number": 108,
+      "character": "硬",
+      "stroke_count": 12,
+      "on_readings": ["コウ"],
+      "kun_readings": ["かた-い"],
+      "words": [
+        { "word": "硬貨", "furigana": "こうか", "meaning": "a coin" },
+        { "word": "硬い", "furigana": "かたい", "meaning": "hard" }
+      ]
+    },
+    {
+      "number": 109,
+      "character": "貨",
+      "stroke_count": 11,
+      "on_readings": ["カ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "貨物", "furigana": "かもつ", "meaning": "freight" },
+        { "word": "通貨", "furigana": "つうか", "meaning": "currency" }
+      ]
+    },
+    {
+      "number": 110,
+      "character": "確",
+      "stroke_count": 15,
+      "on_readings": ["カク"],
+      "kun_readings": ["たしか", "たしか-める"],
+      "words": [
+        { "word": "確定", "furigana": "かくてい", "meaning": "determination" },
+        { "word": "確か(な)", "furigana": "たしか(な)", "meaning": "certain" },
+        { "word": "明確(な)", "furigana": "めいかく(な)", "meaning": "clear" },
+        { "word": "確かめる", "furigana": "たしかめる", "meaning": "confirm/verify" }
+      ]
+    },
+    {
+      "number": 111,
+      "character": "認",
+      "stroke_count": 14,
+      "on_readings": ["ニン"],
+      "kun_readings": ["みと-める"],
+      "words": [
+        { "word": "確認", "furigana": "かくにん", "meaning": "a confirmation" },
+        { "word": "認める", "furigana": "みとめる", "meaning": "admit/approve" }
+      ]
+    },
+    {
+      "number": 112,
+      "character": "違",
+      "stroke_count": 13,
+      "on_readings": ["イ"],
+      "kun_readings": ["ちが-う", "ちが-える"],
+      "words": [
+        { "word": "違法", "furigana": "いほう", "meaning": "illegal" },
+        { "word": "間違える", "furigana": "まちがえる", "meaning": "make a mistake" },
+        { "word": "違い", "furigana": "ちがい", "meaning": "a difference" },
+        { "word": "間違い", "furigana": "まちがい", "meaning": "a mistake" }
+      ]
+    },
+    {
+      "number": 113,
+      "character": "取",
+      "stroke_count": 8,
+      "on_readings": ["シュ"],
+      "kun_readings": ["と-る"],
+      "words": [
+        { "word": "取材", "furigana": "しゅざい", "meaning": "collection of data" },
+        { "word": "取る", "furigana": "とる", "meaning": "take" },
+        { "word": "書き取り", "furigana": "かきとり", "meaning": "a dictation" },
+        { "word": "取り消し", "furigana": "とりけし", "meaning": "a cancellation" },
+        { "word": "聞き取り", "furigana": "ききとり", "meaning": "listening ability" }
+      ]
+    },
+    {
+      "number": 114,
+      "character": "消",
+      "stroke_count": 10,
+      "on_readings": ["ショウ"],
+      "kun_readings": ["き-える", "け-す"],
+      "words": [
+        { "word": "消去", "furigana": "しょうきょ", "meaning": "elimination" },
+        { "word": "消す", "furigana": "けす", "meaning": "extinguish" },
+        { "word": "消える", "furigana": "きえる", "meaning": "be extinguished / disappear" },
+        { "word": "消しゴム", "furigana": "けしごむ", "meaning": "an eraser" }
+      ]
+    }
+  ]
+}

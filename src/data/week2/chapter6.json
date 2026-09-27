@@ -1,0 +1,172 @@
+{
+  "week": 2,
+  "chapter": 13,
+  "chapter_title": "携帯電話・パソコン",
+  "kanji": [
+    {
+      "number": 157,
+      "character": "登",
+      "stroke_count": 12,
+      "on_readings": ["トウ", "ト"],
+      "kun_readings": ["のぼ-る"],
+      "words": [
+        { "word": "登録", "furigana": "とうろく", "meaning": "registration" },
+        { "word": "登場", "furigana": "とうじょう", "meaning": "appearance" },
+        { "word": "登山", "furigana": "とざん", "meaning": "mountain climbing" },
+        { "word": "＝山登り", "furigana": "やまのぼり", "meaning": "mountain climbing" }
+      ]
+    },
+    {
+      "number": 158,
+      "character": "編",
+      "stroke_count": 15,
+      "on_readings": ["ヘン"],
+      "kun_readings": ["あ-む"],
+      "words": [
+        { "word": "編集", "furigana": "へんしゅう", "meaning": "editing" },
+        { "word": "短編", "furigana": "たんぺん", "meaning": "short work" },
+        { "word": "長編", "furigana": "ちょうへん", "meaning": "long work" },
+        { "word": "編み物", "furigana": "あみもの", "meaning": "knitting" }
+      ]
+    },
+    {
+      "number": 159,
+      "character": "能",
+      "stroke_count": 10,
+      "on_readings": ["ノウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "機能", "furigana": "きのう", "meaning": "a function" },
+        { "word": "能力", "furigana": "のうりょく", "meaning": "ability" },
+        { "word": "可能(な)", "furigana": "かのう(な)", "meaning": "possible" }
+      ]
+    },
+    {
+      "number": 160,
+      "character": "修",
+      "stroke_count": 10,
+      "on_readings": ["シュウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "修正", "furigana": "しゅうせい", "meaning": "amendment/modification" },
+        { "word": "修士", "furigana": "しゅうし", "meaning": "master (holder of a masters degree)" },
+        { "word": "修理", "furigana": "しゅうり", "meaning": "repairs/fixing" }
+      ]
+    },
+    {
+      "number": 161,
+      "character": "完",
+      "stroke_count": 7,
+      "on_readings": ["カン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "完了", "furigana": "かんりょう", "meaning": "finishing/completion" },
+        { "word": "完備", "furigana": "かんび", "meaning": "being fully equipped" },
+        { "word": "完成", "furigana": "かんせい", "meaning": "completion/accomplishment" }
+      ]
+    },
+    {
+      "number": 162,
+      "character": "了",
+      "stroke_count": 2,
+      "on_readings": ["リョウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "終了", "furigana": "しゅうりょう", "meaning": "end/expiration" },
+        { "word": "修了", "furigana": "しゅうりょう", "meaning": "completion (of a course)" }
+      ]
+    },
+    {
+      "number": 163,
+      "character": "像",
+      "stroke_count": 14,
+      "on_readings": ["ゾウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "画像", "furigana": "がぞう", "meaning": "a picture/image" },
+        { "word": "現像", "furigana": "げんぞう", "meaning": "developing (a photograph)" },
+        { "word": "映像", "furigana": "えいぞう", "meaning": "a reflection/image/video" }
+      ]
+    },
+    {
+      "number": 164,
+      "character": "類",
+      "stroke_count": 18,
+      "on_readings": ["ルイ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "書類", "furigana": "しょるい", "meaning": "a document" },
+        { "word": "人類", "furigana": "じんるい", "meaning": "the human race" },
+        { "word": "分類", "furigana": "ぶんるい", "meaning": "classification" }
+      ]
+    },
+    {
+      "number": 165,
+      "character": "式",
+      "stroke_count": 6,
+      "on_readings": ["シキ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "書式", "furigana": "しょしき", "meaning": "prescribed form" },
+        { "word": "日本式", "furigana": "にほんしき", "meaning": "Japanese style" },
+        { "word": "入学式", "furigana": "にゅうがくしき", "meaning": "entrance ceremony" },
+        { "word": "正式(な)", "furigana": "せいしき(な)", "meaning": "formal/official" }
+      ]
+    },
+    {
+      "number": 166,
+      "character": "央",
+      "stroke_count": 5,
+      "on_readings": ["オウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "中央", "furigana": "ちゅうおう", "meaning": "center" }
+      ]
+    },
+    {
+      "number": 167,
+      "character": "存",
+      "stroke_count": 6,
+      "on_readings": ["ソン", "ゾン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "保存", "furigana": "ほぞん", "meaning": "preservation" },
+        { "word": "ご存知", "furigana": "ごぞんじ", "meaning": "knowing (humble form)" },
+        { "word": "生存", "furigana": "せいそん", "meaning": "survival" },
+        { "word": "存在", "furigana": "そんざい", "meaning": "existence" }
+      ]
+    },
+    {
+      "number": 168,
+      "character": "印",
+      "stroke_count": 6,
+      "on_readings": ["イン"],
+      "kun_readings": ["しるし"],
+      "words": [
+        { "word": "認め印", "furigana": "みとめいん", "meaning": "a private seal" },
+        { "word": "印", "furigana": "いん", "meaning": "a mark/token" },
+        { "word": "目印", "furigana": "めじるし", "meaning": "a sign/landmark" }
+      ]
+    },
+    {
+      "number": 169,
+      "character": "刷",
+      "stroke_count": 8,
+      "on_readings": ["サツ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "印刷", "furigana": "いんさつ", "meaning": "printing" }
+      ]
+    },
+    {
+      "number": 170,
+      "character": "拡",
+      "stroke_count": 8,
+      "on_readings": ["カク"],
+      "kun_readings": [],
+      "words": [
+        { "word": "拡大", "furigana": "かくだい", "meaning": "enlargement" }
+      ]
+    }
+  ]
+}

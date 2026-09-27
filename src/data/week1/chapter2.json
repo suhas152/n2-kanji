@@ -1,0 +1,154 @@
+{
+  "week": 1,
+  "chapter": 2,
+  "chapter_title": "建物の中でよく見る表示",
+  "kanji": [
+    {
+      "number": 15,
+      "character": "喫",
+      "stroke_count": 12,
+      "on_readings": ["キツ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "喫茶店", "furigana": "きっさてん", "meaning": "a coffee shop" },
+        { "word": "喫煙所", "furigana": "きつえんじょ", "meaning": "a smoking area" }
+      ]
+    },
+    {
+      "number": 16,
+      "character": "非",
+      "stroke_count": 8,
+      "on_readings": ["ヒ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "非〜", "furigana": "ひ〜", "meaning": "non-/anti-/dis-" },
+        { "word": "非常に", "furigana": "ひじょうに", "meaning": "extremely" },
+        { "word": "非常口", "furigana": "ひじょうぐち", "meaning": "an emergency exit" }
+      ]
+    },
+    {
+      "number": 17,
+      "character": "御",
+      "stroke_count": 12,
+      "on_readings": ["ゴ"],
+      "kun_readings": ["おん", "お"],
+      "words": [
+        { "word": "御〜/御〜", "furigana": "お〜/おん〜", "meaning": "(honorific form)" },
+        { "word": "御中", "furigana": "おんちゅう", "meaning": "(written on letters addressed to an organization / rather than an individual within the organization)" },
+        { "word": "御手洗い", "furigana": "おてあらい", "meaning": "a toilet" }
+      ]
+    },
+    {
+      "number": 18,
+      "character": "常",
+      "stroke_count": 11,
+      "on_readings": ["ジョウ"],
+      "kun_readings": ["つね"],
+      "words": [
+        { "word": "日常", "furigana": "にちじょう", "meaning": "usual/everyday" },
+        { "word": "常に", "furigana": "つねに", "meaning": "always" },
+        { "word": "常識", "furigana": "じょうしき", "meaning": "common sense" }
+      ]
+    },
+    {
+      "number": 19,
+      "character": "受",
+      "stroke_count": 8,
+      "on_readings": ["ジュ"],
+      "kun_readings": ["う-ける"],
+      "words": [
+        { "word": "受験", "furigana": "じゅけん", "meaning": "taking an examination" },
+        { "word": "受ける", "furigana": "うける", "meaning": "receive" }
+      ]
+    },
+    {
+      "number": 20,
+      "character": "付",
+      "stroke_count": 5,
+      "on_readings": ["フ"],
+      "kun_readings": ["つ-ける", "つ-く"],
+      "words": [
+        { "word": "付近", "furigana": "ふきん", "meaning": "vicinity" },
+        { "word": "受付", "furigana": "うけつけ", "meaning": "a reception" },
+        { "word": "〜付き", "furigana": "〜つき", "meaning": "attached/with" },
+        { "word": "日付", "furigana": "ひづけ", "meaning": "date" }
+      ]
+    },
+    {
+      "number": 21,
+      "character": "案",
+      "stroke_count": 10,
+      "on_readings": ["アン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "案内", "furigana": "あんない", "meaning": "information" },
+        { "word": "案", "furigana": "あん", "meaning": "a suggestion/proposal/plan" }
+      ]
+    },
+    {
+      "number": 22,
+      "character": "内",
+      "stroke_count": 4,
+      "on_readings": ["ナイ"],
+      "kun_readings": ["うち"],
+      "words": [
+        { "word": "以内", "furigana": "いない", "meaning": "within" },
+        { "word": "〜内", "furigana": "〜ない", "meaning": "inside/within" },
+        { "word": "社内", "furigana": "しゃない", "meaning": "within the company" },
+        { "word": "内", "furigana": "うち", "meaning": "the inside" }
+      ]
+    },
+    {
+      "number": 23,
+      "character": "議",
+      "stroke_count": 20,
+      "on_readings": ["ギ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "会議室", "furigana": "かいぎしつ", "meaning": "a meeting room" },
+        { "word": "議論", "furigana": "ぎろん", "meaning": "argument/discussion/debate" },
+        { "word": "不思議(な)", "furigana": "ふしぎ(な)", "meaning": "wonderful/strange" },
+        { "word": "議員", "furigana": "ぎいん", "meaning": "an assembly member" }
+      ]
+    },
+    {
+      "number": 24,
+      "character": "化",
+      "stroke_count": 4,
+      "on_readings": ["カ", "ケ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "文化", "furigana": "ぶんか", "meaning": "culture" },
+        { "word": "〜化", "furigana": "〜か", "meaning": "-ization (changing something into something else)" },
+        { "word": "化学", "furigana": "かがく", "meaning": "chemistry" },
+        { "word": "化粧室", "furigana": "けしょうしつ", "meaning": "a powder room / a toilet" }
+      ]
+    },
+    {
+      "number": 25,
+      "character": "階",
+      "stroke_count": 12,
+      "on_readings": ["カイ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "階段", "furigana": "かいだん", "meaning": "stairs" },
+        { "word": "段階", "furigana": "だんかい", "meaning": "level" },
+        { "word": "〜階", "furigana": "〜かい", "meaning": "the ... floor" }
+      ]
+    },
+    {
+      "number": 26,
+      "character": "段",
+      "stroke_count": 9,
+      "on_readings": ["ダン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "階段", "furigana": "かいだん", "meaning": "stairs" },
+        { "word": "段階", "furigana": "だんかい", "meaning": "level" },
+        { "word": "一段と", "furigana": "いちだんと", "meaning": "even more" },
+        { "word": "手段", "furigana": "しゅだん", "meaning": "a means/way" },
+        { "word": "石段", "furigana": "いしだん", "meaning": "a stone step" }
+      ]
+    }
+  ]
+}

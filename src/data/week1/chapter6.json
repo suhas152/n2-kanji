@@ -1,0 +1,171 @@
+{
+  "week": 1,
+  "chapter": 6,
+  "chapter_title": "郵便局・病院でよく見る表示",
+  "kanji": [
+    {
+      "number": 67,
+      "character": "郵",
+      "stroke_count": 11,
+      "on_readings": ["ユウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "郵便", "furigana": "ゆうびん", "meaning": "mail (service)" },
+        { "word": "郵送", "furigana": "ゆうそう", "meaning": "sending by post" }
+      ]
+    },
+    {
+      "number": 68,
+      "character": "局",
+      "stroke_count": 7,
+      "on_readings": ["キョク"],
+      "kun_readings": [],
+      "words": [
+        { "word": "郵便局", "furigana": "ゆうびんきょく", "meaning": "a post office" },
+        { "word": "放送局", "furigana": "ほうそうきょく", "meaning": "a broadcasting station" },
+        { "word": "薬局", "furigana": "やっきょく", "meaning": "a drugstore" }
+      ]
+    },
+    {
+      "number": 69,
+      "character": "貯",
+      "stroke_count": 12,
+      "on_readings": ["チョ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "貯金", "furigana": "ちょきん", "meaning": "savings" }
+      ]
+    },
+    {
+      "number": 70,
+      "character": "包",
+      "stroke_count": 5,
+      "on_readings": ["ホウ"],
+      "kun_readings": ["つつ-む", "つつ-み"],
+      "words": [
+        { "word": "包帯", "furigana": "ほうたい", "meaning": "a bandage" },
+        { "word": "包む", "furigana": "つつむ", "meaning": "wrap" },
+        { "word": "小包", "furigana": "こづつみ", "meaning": "a parcel" }
+      ]
+    },
+    {
+      "number": 71,
+      "character": "達",
+      "stroke_count": 12,
+      "on_readings": ["タツ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "発達", "furigana": "はったつ", "meaning": "development" },
+        { "word": "友達", "furigana": "ともだち", "meaning": "a friend" },
+        { "word": "速達", "furigana": "そくたつ", "meaning": "a special delivery" }
+      ]
+    },
+    {
+      "number": 72,
+      "character": "際",
+      "stroke_count": 14,
+      "on_readings": ["サイ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "国際", "furigana": "こくさい", "meaning": "international" },
+        { "word": "実際に", "furigana": "じっさいに", "meaning": "actually" },
+        { "word": "〜の際", "furigana": "〜のさい", "meaning": "at the time of ..." }
+      ]
+    },
+    {
+      "number": 73,
+      "character": "初",
+      "stroke_count": 7,
+      "on_readings": ["ショ"],
+      "kun_readings": ["はじ-め", "はじ-めて", "はつ"],
+      "words": [
+        { "word": "初診", "furigana": "しょしん", "meaning": "the first medical consultation" },
+        { "word": "初恋", "furigana": "はつこい", "meaning": "one's first love" },
+        { "word": "初めて", "furigana": "はじめて", "meaning": "for the first time" },
+        { "word": "初雪", "furigana": "はつゆき", "meaning": "the first snow of the season" }
+      ]
+    },
+    {
+      "number": 74,
+      "character": "再",
+      "stroke_count": 6,
+      "on_readings": ["サイ", "サ"],
+      "kun_readings": ["ふたた-び"],
+      "words": [
+        { "word": "再診", "furigana": "さいしん", "meaning": "a follow-up medical consultation" },
+        { "word": "再来年", "furigana": "さらいねん", "meaning": "the year after next" },
+        { "word": "再生", "furigana": "さいせい", "meaning": "regeneration/recycling" },
+        { "word": "再び", "furigana": "ふたたび", "meaning": "again" }
+      ]
+    },
+    {
+      "number": 75,
+      "character": "療",
+      "stroke_count": 17,
+      "on_readings": ["リョウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "診療", "furigana": "しんりょう", "meaning": "medical examination and treatment" },
+        { "word": "医療", "furigana": "いりょう", "meaning": "medical treatment/service" },
+        { "word": "治療", "furigana": "ちりょう", "meaning": "(medical) treatment" }
+      ]
+    },
+    {
+      "number": 76,
+      "character": "科",
+      "stroke_count": 9,
+      "on_readings": ["カ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "科学", "furigana": "かがく", "meaning": "science" },
+        { "word": "内科", "furigana": "ないか", "meaning": "internal medicine department" },
+        { "word": "外科", "furigana": "げか", "meaning": "a surgery department" }
+      ]
+    },
+    {
+      "number": 77,
+      "character": "婦",
+      "stroke_count": 11,
+      "on_readings": ["フ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "産婦人科", "furigana": "さんふじんか", "meaning": "obstetrics and gynecology department" },
+        { "word": "婦人", "furigana": "ふじん", "meaning": "a woman" },
+        { "word": "主婦", "furigana": "しゅふ", "meaning": "a housewife" }
+      ]
+    },
+    {
+      "number": 78,
+      "character": "皮",
+      "stroke_count": 5,
+      "on_readings": ["ヒ"],
+      "kun_readings": ["かわ"],
+      "words": [
+        { "word": "皮肉(な)", "furigana": "ひにく(な)", "meaning": "irony/sarcasm" },
+        { "word": "皮", "furigana": "かわ", "meaning": "skin/peel/bark" },
+        { "word": "皮膚", "furigana": "ひふ", "meaning": "the skin" }
+      ]
+    },
+    {
+      "number": 79,
+      "character": "膚",
+      "stroke_count": 15,
+      "on_readings": ["フ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "皮膚", "furigana": "ひふ", "meaning": "the skin" }
+      ]
+    },
+    {
+      "number": 80,
+      "character": "救",
+      "stroke_count": 11,
+      "on_readings": ["キュウ"],
+      "kun_readings": ["すく-う"],
+      "words": [
+        { "word": "救急", "furigana": "きゅうきゅう", "meaning": "first aid" },
+        { "word": "救う", "furigana": "すくう", "meaning": "save" }
+      ]
+    }
+  ]
+}

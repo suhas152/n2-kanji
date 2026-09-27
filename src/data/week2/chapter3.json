@@ -1,0 +1,177 @@
+{
+  "week": 2,
+  "chapter": 10,
+  "chapter_title": "自動販売機・自動券売機",
+  "kanji": [
+    {
+      "number": 115,
+      "character": "温",
+      "stroke_count": 12,
+      "on_readings": ["オン"],
+      "kun_readings": ["あたた-かい", "あたた-まる", "あたた-める"],
+      "words": [
+        { "word": "温度", "furigana": "おんど", "meaning": "temperature" },
+        { "word": "温室", "furigana": "おんしつ", "meaning": "a greenhouse" },
+        { "word": "体温計", "furigana": "たいおんけい", "meaning": "a thermometer" },
+        { "word": "温かい", "furigana": "あたたかい", "meaning": "warm" }
+      ]
+    },
+    {
+      "number": 116,
+      "character": "冷",
+      "stroke_count": 7,
+      "on_readings": ["レイ"],
+      "kun_readings": ["つめ-たい", "ひ-える", "ひ-やす", "ざ-める", "さ-ます"],
+      "words": [
+        { "word": "冷静(な)", "furigana": "れいせい(な)", "meaning": "calm" },
+        { "word": "冷える", "furigana": "ひえる", "meaning": "become cold" },
+        { "word": "冷める", "furigana": "さめる", "meaning": "cool down" },
+        { "word": "冷たい", "furigana": "つめたい", "meaning": "cold" },
+        { "word": "冷やす", "furigana": "ひやす", "meaning": "cool" },
+        { "word": "冷ます", "furigana": "さます", "meaning": "cool something" }
+      ]
+    },
+    {
+      "number": 117,
+      "character": "緑",
+      "stroke_count": 14,
+      "on_readings": ["リョク"],
+      "kun_readings": ["みどり"],
+      "words": [
+        { "word": "緑茶", "furigana": "りょくちゃ", "meaning": "green tea" },
+        { "word": "緑(色)", "furigana": "みどり(いろ)", "meaning": "green" },
+        { "word": "新緑", "furigana": "しんりょく", "meaning": "fresh greenery" }
+      ]
+    },
+    {
+      "number": 118,
+      "character": "紅",
+      "stroke_count": 9,
+      "on_readings": ["コウ"],
+      "kun_readings": ["べに"],
+      "words": [
+        { "word": "紅茶", "furigana": "こうちゃ", "meaning": "tea" },
+        { "word": "口紅", "furigana": "くちべに", "meaning": "lipstick" }
+      ]
+    },
+    {
+      "number": 119,
+      "character": "玉",
+      "stroke_count": 5,
+      "on_readings": [],
+      "kun_readings": ["たま"],
+      "words": [
+        { "word": "水玉", "furigana": "みずたま", "meaning": "a drop of water" },
+        { "word": "十円玉", "furigana": "じゅうえんだま", "meaning": "a 10-yen coin" },
+        { "word": "玉", "furigana": "たま", "meaning": "a ball/sphere" }
+      ]
+    },
+    {
+      "number": 120,
+      "character": "返",
+      "stroke_count": 7,
+      "on_readings": ["ヘン"],
+      "kun_readings": ["かえ-す", "かえ-る"],
+      "words": [
+        { "word": "返事", "furigana": "へんじ", "meaning": "a reply" },
+        { "word": "返金", "furigana": "へんきん", "meaning": "a refund" },
+        { "word": "返却", "furigana": "へんきゃく", "meaning": "returning (something)" },
+        { "word": "返す", "furigana": "かえす", "meaning": "return (something)" }
+      ]
+    },
+    {
+      "number": 121,
+      "character": "団",
+      "stroke_count": 6,
+      "on_readings": ["ダン", "トン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "団体", "furigana": "だんたい", "meaning": "a group/organization" },
+        { "word": "団地", "furigana": "だんち", "meaning": "a large housing / apartment complex" },
+        { "word": "集団", "furigana": "しゅうだん", "meaning": "a group" },
+        { "word": "布団", "furigana": "ふとん", "meaning": "futon (Japanese mattress)" }
+      ]
+    },
+    {
+      "number": 122,
+      "character": "般",
+      "stroke_count": 10,
+      "on_readings": ["ハン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "一般", "furigana": "いっぱん", "meaning": "the general" },
+        { "word": "全般", "furigana": "ぜんぱん", "meaning": "the whole" }
+      ]
+    },
+    {
+      "number": 123,
+      "character": "幼",
+      "stroke_count": 5,
+      "on_readings": ["ヨウ"],
+      "kun_readings": ["おさない"],
+      "words": [
+        { "word": "幼児", "furigana": "ようじ", "meaning": "baby" },
+        { "word": "幼い", "furigana": "おさない", "meaning": "very young / childish" }
+      ]
+    },
+    {
+      "number": 124,
+      "character": "児",
+      "stroke_count": 7,
+      "on_readings": ["ジ", "ニ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "小児科", "furigana": "しょうにか", "meaning": "pediatrics department" },
+        { "word": "児童", "furigana": "じどう", "meaning": "child" }
+      ]
+    },
+    {
+      "number": 125,
+      "character": "歳",
+      "stroke_count": 13,
+      "on_readings": ["サイ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "〜歳", "furigana": "〜さい", "meaning": "... years old" },
+        { "word": "二十歳 / 二十歳", "furigana": "はたち / にじゅっさい", "meaning": "20 years old" }
+      ]
+    },
+    {
+      "number": 126,
+      "character": "未",
+      "stroke_count": 5,
+      "on_readings": ["ミ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "未定", "furigana": "みてい", "meaning": "undecided/indefinite" },
+        { "word": "未知", "furigana": "みち", "meaning": "unknown" },
+        { "word": "未来", "furigana": "みらい", "meaning": "future" },
+        { "word": "未〜", "furigana": "み〜", "meaning": "not yet" }
+      ]
+    },
+    {
+      "number": 127,
+      "character": "満",
+      "stroke_count": 12,
+      "on_readings": ["マン"],
+      "kun_readings": ["み-ちる", "み-たす"],
+      "words": [
+        { "word": "未満", "furigana": "みまん", "meaning": "less than" },
+        { "word": "満足", "furigana": "まんぞく", "meaning": "satisfaction" },
+        { "word": "満員", "furigana": "まんいん", "meaning": "full (of people)" },
+        { "word": "満ちる", "furigana": "みちる", "meaning": "be filled with" }
+      ]
+    },
+    {
+      "number": 128,
+      "character": "老",
+      "stroke_count": 6,
+      "on_readings": ["ロウ"],
+      "kun_readings": ["おい-る"],
+      "words": [
+        { "word": "老人", "furigana": "ろうじん", "meaning": "an old person" },
+        { "word": "年老いた", "furigana": "としおいた", "meaning": "aged" }
+      ]
+    }
+  ]
+}

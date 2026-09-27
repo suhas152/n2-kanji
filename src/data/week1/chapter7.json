@@ -1,0 +1,75 @@
+{
+  "week": 1,
+  "chapter": 7,
+  "chapter_title": "看板・立て札・表示",
+  "kanji": [
+    {
+      "number": 81,
+      "character": "看",
+      "stroke_count": 9,
+      "on_readings": ["カン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "看板", "furigana": "かんばん", "meaning": "a signboard" },
+        { "word": "看護師", "furigana": "かんごし", "meaning": "a nurse" },
+        { "word": "看病", "furigana": "かんびょう", "meaning": "nursing" }
+      ]
+    },
+    {
+      "number": 82,
+      "character": "板",
+      "stroke_count": 8,
+      "on_readings": ["ハン", "バン"],
+      "kun_readings": ["いた"],
+      "words": [
+        { "word": "黒板", "furigana": "こくばん", "meaning": "a blackboard" },
+        { "word": "板", "furigana": "いた", "meaning": "a board" },
+        { "word": "案内板", "furigana": "あんないばん", "meaning": "a notice board" }
+      ]
+    },
+    {
+      "number": 83,
+      "character": "羽",
+      "stroke_count": 6,
+      "on_readings": ["ウ"],
+      "kun_readings": ["はね", "は"],
+      "words": [
+        { "word": "羽毛", "furigana": "うもう", "meaning": "feathering/down" },
+        { "word": "羽", "furigana": "はね", "meaning": "a feather" },
+        { "word": "羽根", "furigana": "はね", "meaning": "a shuttlecock" }
+      ]
+    },
+    {
+      "number": 84,
+      "character": "成",
+      "stroke_count": 6,
+      "on_readings": ["セイ"],
+      "kun_readings": ["な-る"],
+      "words": [
+        { "word": "成分", "furigana": "せいぶん", "meaning": "an ingredient / a constituent" },
+        { "word": "成人式", "furigana": "せいじんしき", "meaning": "a coming-of-age ceremony" }
+      ]
+    },
+    {
+      "number": 85,
+      "character": "第",
+      "stroke_count": 11,
+      "on_readings": ["ダイ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "第〜", "furigana": "だい〜", "meaning": "number ..." }
+      ]
+    },
+    {
+      "number": 86,
+      "character": "総",
+      "stroke_count": 14,
+      "on_readings": ["ソウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "総合病院", "furigana": "そうごうびょういん", "meaning": "a general hospital" },
+        { "word": "総計", "furigana": "そうけい", "meaning": "the total" }
+      ]
+    }
+  ]
+}

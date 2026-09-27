@@ -1,0 +1,108 @@
+{
+  "week": 2,
+  "chapter": 14,
+  "chapter_title": "小人⇔大人",
+  "kanji": [
+    {
+      "number": 171,
+      "character": "若",
+      "stroke_count": 8,
+      "on_readings": [],
+      "kun_readings": ["わか-い"],
+      "words": [
+        { "word": "若い", "furigana": "わかい", "meaning": "young" }
+      ]
+    },
+    {
+      "number": 172,
+      "character": "反",
+      "stroke_count": 4,
+      "on_readings": ["ハン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "反対", "furigana": "はんたい", "meaning": "opposition" }
+      ]
+    },
+    {
+      "number": 173,
+      "character": "賛",
+      "stroke_count": 15,
+      "on_readings": ["サン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "賛成", "furigana": "さんせい", "meaning": "approval" }
+      ]
+    },
+    {
+      "number": 174,
+      "character": "拾",
+      "stroke_count": 9,
+      "on_readings": [],
+      "kun_readings": ["ひろ-う"],
+      "words": [
+        { "word": "拾う", "furigana": "ひろう", "meaning": "pick up" }
+      ]
+    },
+    {
+      "number": 175,
+      "character": "鋭",
+      "stroke_count": 15,
+      "on_readings": [],
+      "kun_readings": ["するど-い"],
+      "words": [
+        { "word": "鋭い", "furigana": "するどい", "meaning": "sharp" }
+      ]
+    },
+    {
+      "number": 176,
+      "character": "鈍",
+      "stroke_count": 12,
+      "on_readings": [],
+      "kun_readings": ["にぶ-い"],
+      "words": [
+        { "word": "鈍い", "furigana": "にぶい", "meaning": "blunt/dull" }
+      ]
+    },
+    {
+      "number": 177,
+      "character": "肯",
+      "stroke_count": 8,
+      "on_readings": ["コウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "肯定", "furigana": "こうてい", "meaning": "affirmation" }
+      ]
+    },
+    {
+      "number": 178,
+      "character": "否",
+      "stroke_count": 7,
+      "on_readings": ["ヒ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "否定", "furigana": "ひてい", "meaning": "negation" }
+      ]
+    },
+    {
+      "number": 179,
+      "character": "浮",
+      "stroke_count": 10,
+      "on_readings": [],
+      "kun_readings": ["う-く", "う-かぶ", "う-かべる"],
+      "words": [
+        { "word": "浮く", "furigana": "うく", "meaning": "float" },
+        { "word": "浮かぶ", "furigana": "うかぶ", "meaning": "float" }
+      ]
+    },
+    {
+      "number": 180,
+      "character": "沈",
+      "stroke_count": 7,
+      "on_readings": [],
+      "kun_readings": ["しず-む"],
+      "words": [
+        { "word": "沈む", "furigana": "しずむ", "meaning": "sink" }
+      ]
+    }
+  ]
+}
