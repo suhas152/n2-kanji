@@ -1,24 +1,20 @@
 /**
  * Flashcard.jsx
  *
- * Receives a single `vocabCard` object:
- * {
- *   vocabId, word, furigana, meaning, kanjiCharacter,
- *   week, chapter, kanjiNumber, wordIndex
- * }
- *
  * Front  → vocabulary word ONLY (e.g. 看板)
  * Back   → furigana + meaning
  *
- * No kanji character on front. No furigana on front. JSON order preserved upstream.
+ * Clicking the card toggles between front and back every time.
+ * Assessment buttons appear only when the back is showing.
  */
 import { useState } from 'react';
 
 export default function Flashcard({ vocabCard, index, total, onKnown, onReview }) {
   const [flipped, setFlipped] = useState(false);
 
+  // Toggle flip on every click of the card
   function handleFlip() {
-    if (!flipped) setFlipped(true);
+    setFlipped((prev) => !prev);
   }
 
   function handleKnown() {
@@ -58,8 +54,11 @@ export default function Flashcard({ vocabCard, index, total, onKnown, onReview }
           </div>
 
           {/* ── BACK: furigana + meaning ── */}
-          <div className="flashcard-back bg-white border-2 border-indigo-200 shadow-md flex flex-col items-center justify-center rounded-2xl px-8">
-            {/* Vocabulary word repeated for reference */}
+          <div
+            className="flashcard-back bg-white border-2 border-indigo-200 shadow-md flex flex-col items-center justify-center rounded-2xl px-8 cursor-pointer select-none"
+            onClick={handleFlip}
+          >
+            {/* Vocabulary word */}
             <div className="text-5xl font-bold text-stone-900 leading-none text-center mb-5">
               {vocabCard.word}
             </div>
@@ -73,11 +72,15 @@ export default function Flashcard({ vocabCard, index, total, onKnown, onReview }
             <div className="text-lg text-stone-600 text-center">
               {vocabCard.meaning}
             </div>
+
+            <p className="mt-6 text-stone-300 text-xs font-medium tracking-widest uppercase">
+              Tap to flip back
+            </p>
           </div>
         </div>
       </div>
 
-      {/* Assessment buttons — only after flip */}
+      {/* Assessment buttons — only shown when back is visible */}
       {flipped && (
         <div className="flex gap-4 w-full">
           <button
