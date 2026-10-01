@@ -1,0 +1,157 @@
+{
+  "week": 5,
+  "chapter": 30,
+  "chapter_title": "家庭用品 洗剤①",
+  "kanji": [
+    {
+      "number": 387,
+      "character": "毛",
+      "stroke_count": 4,
+      "on_readings": ["モウ"],
+      "kun_readings": ["け"],
+      "words": [
+        { "word": "羊毛", "furigana": "ようもう", "meaning": "wool" },
+        { "word": "毛", "furigana": "け", "meaning": "fur/hair/wool" },
+        { "word": "毛皮", "furigana": "けがわ", "meaning": "fur" }
+      ]
+    },
+    {
+      "number": 388,
+      "character": "糸",
+      "stroke_count": 8,
+      "on_readings": [],
+      "kun_readings": ["いと"],
+      "words": [
+        { "word": "糸", "furigana": "いと", "meaning": "a thread" },
+        { "word": "毛糸", "furigana": "けいと", "meaning": "woollen yarn" }
+      ]
+    },
+    {
+      "number": 389,
+      "character": "肌",
+      "stroke_count": 6,
+      "on_readings": [],
+      "kun_readings": ["はだ"],
+      "words": [
+        { "word": "肌", "furigana": "はだ", "meaning": "skin" },
+        { "word": "肌着", "furigana": "はだぎ", "meaning": "an undershirt" }
+      ]
+    },
+    {
+      "number": 390,
+      "character": "柔",
+      "stroke_count": 9,
+      "on_readings": ["ジュウ"],
+      "kun_readings": ["やわ-らかい"],
+      "words": [
+        { "word": "柔軟(な)", "furigana": "じゅうなん(な)", "meaning": "flexible" },
+        { "word": "柔道", "furigana": "じゅうどう", "meaning": "judo" },
+        { "word": "柔らかい", "furigana": "やわらかい", "meaning": "soft/tender" }
+      ]
+    },
+    {
+      "number": 391,
+      "character": "香",
+      "stroke_count": 9,
+      "on_readings": ["コウ"],
+      "kun_readings": ["かお-り", "かお-る"],
+      "words": [
+        { "word": "香水", "furigana": "こうすい", "meaning": "perfume" },
+        { "word": "無香料", "furigana": "むこうりょう", "meaning": "no scent" },
+        { "word": "香辛料", "furigana": "こうしんりょう", "meaning": "spice" },
+        { "word": "香り", "furigana": "かおり", "meaning": "a scent/smell" }
+      ]
+    },
+    {
+      "number": 392,
+      "character": "軟",
+      "stroke_count": 11,
+      "on_readings": ["ナン"],
+      "kun_readings": ["やわ-らかい"],
+      "words": [
+        { "word": "軟弱(な)", "furigana": "なんじゃく(な)", "meaning": "weak" },
+        { "word": "柔軟体操", "furigana": "じゅうなんたいそう", "meaning": "warm-up exercises" },
+        { "word": "軟らかい", "furigana": "やわらかい", "meaning": "soft" }
+      ]
+    },
+    {
+      "number": 393,
+      "character": "溶",
+      "stroke_count": 13,
+      "on_readings": ["ヨウ"],
+      "kun_readings": ["と-ける", "と-かす"],
+      "words": [
+        { "word": "溶岩", "furigana": "ようがん", "meaning": "lava" },
+        { "word": "溶ける", "furigana": "とける", "meaning": "dissolve/melt/thaw" },
+        { "word": "溶かす", "furigana": "とかす", "meaning": "dissolve/melt" }
+      ]
+    },
+    {
+      "number": 394,
+      "character": "濯",
+      "stroke_count": 17,
+      "on_readings": ["タク"],
+      "kun_readings": [],
+      "words": [
+        { "word": "洗濯", "furigana": "せんたく", "meaning": "washing" },
+        { "word": "洗濯機", "furigana": "せんたくき", "meaning": "a washing machine" }
+      ]
+    },
+    {
+      "number": 395,
+      "character": "接",
+      "stroke_count": 11,
+      "on_readings": ["セツ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "直接", "furigana": "ちょくせつ", "meaning": "direct" },
+        { "word": "間接", "furigana": "かんせつ", "meaning": "indirect" },
+        { "word": "面接", "furigana": "めんせつ", "meaning": "an interview" },
+        { "word": "接近", "furigana": "せっきん", "meaning": "proximity" }
+      ]
+    },
+    {
+      "number": 396,
+      "character": "塗",
+      "stroke_count": 13,
+      "on_readings": [],
+      "kun_readings": ["ぬ-る"],
+      "words": [
+        { "word": "塗る", "furigana": "ぬる", "meaning": "paint/spread" }
+      ]
+    },
+    {
+      "number": 397,
+      "character": "緒",
+      "stroke_count": 14,
+      "on_readings": ["ショ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "一緒", "furigana": "いっしょ", "meaning": "together" }
+      ]
+    },
+    {
+      "number": 398,
+      "character": "泥",
+      "stroke_count": 8,
+      "on_readings": [],
+      "kun_readings": ["どろ"],
+      "words": [
+        { "word": "泥", "furigana": "どろ", "meaning": "mud" },
+        { "word": "泥棒", "furigana": "どろぼう", "meaning": "a thief" }
+      ]
+    },
+    {
+      "number": 399,
+      "character": "黄",
+      "stroke_count": 11,
+      "on_readings": ["オウ"],
+      "kun_readings": ["き"],
+      "words": [
+        { "word": "卵黄", "furigana": "らんおう", "meaning": "a yolk" },
+        { "word": "黄身", "furigana": "きみ", "meaning": "(egg) yolk" },
+        { "word": "黄色", "furigana": "きいろ", "meaning": "yellow" }
+      ]
+    }
+  ]
+}

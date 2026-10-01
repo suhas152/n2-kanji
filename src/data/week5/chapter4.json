@@ -1,0 +1,167 @@
+{
+  "week": 5,
+  "chapter": 32,
+  "chapter_title": "家庭用品(薬)",
+  "kanji": [
+    {
+      "number": 414,
+      "character": "刺",
+      "stroke_count": 8,
+      "on_readings": ["シ"],
+      "kun_readings": ["さ-す", "さ-さる"],
+      "words": [
+        { "word": "名刺", "furigana": "めいし", "meaning": "a name card" },
+        { "word": "刺激", "furigana": "しげき", "meaning": "a stimulus" },
+        { "word": "刺す", "furigana": "さす", "meaning": "stab (something)" },
+        { "word": "刺さる", "furigana": "ささる", "meaning": "be pierced" }
+      ]
+    },
+    {
+      "number": 415,
+      "character": "肩",
+      "stroke_count": 8,
+      "on_readings": [],
+      "kun_readings": ["かた"],
+      "words": [
+        { "word": "肩", "furigana": "かた", "meaning": "shoulder" },
+        { "word": "肩書き", "furigana": "かたがき", "meaning": "a title" }
+      ]
+    },
+    {
+      "number": 416,
+      "character": "腰",
+      "stroke_count": 13,
+      "on_readings": ["ヨウ"],
+      "kun_readings": ["こし"],
+      "words": [
+        { "word": "腰痛", "furigana": "ようつう", "meaning": "(lower) backache" },
+        { "word": "腰", "furigana": "こし", "meaning": "waist/hip" },
+        { "word": "腰掛け", "furigana": "こしかけ", "meaning": "a chair/seat" },
+        { "word": "腰掛ける", "furigana": "こしかける", "meaning": "sit" }
+      ]
+    },
+    {
+      "number": 417,
+      "character": "節",
+      "stroke_count": 13,
+      "on_readings": ["セツ"],
+      "kun_readings": ["ふし"],
+      "words": [
+        { "word": "関節", "furigana": "かんせつ", "meaning": "a joint" },
+        { "word": "調節", "furigana": "ちょうせつ", "meaning": "an adjustment" },
+        { "word": "節約", "furigana": "せつやく", "meaning": "thrift" },
+        { "word": "節", "furigana": "ふし", "meaning": "a knot (in wood) / joint" }
+      ]
+    },
+    {
+      "number": 418,
+      "character": "神",
+      "stroke_count": 9,
+      "on_readings": ["シン", "ジン"],
+      "kun_readings": ["かみ"],
+      "words": [
+        { "word": "神話", "furigana": "しんわ", "meaning": "a myth" },
+        { "word": "神道", "furigana": "しんとう", "meaning": "Shintoism" },
+        { "word": "神経", "furigana": "しんけい", "meaning": "nerve" },
+        { "word": "神社", "furigana": "じんじゃ", "meaning": "a shrine" },
+        { "word": "神様", "furigana": "かみさま", "meaning": "a god" }
+      ]
+    },
+    {
+      "number": 419,
+      "character": "痛",
+      "stroke_count": 12,
+      "on_readings": ["ツウ"],
+      "kun_readings": ["いた-い", "いた-む"],
+      "words": [
+        { "word": "頭痛", "furigana": "ずつう", "meaning": "a headache" },
+        { "word": "苦痛", "furigana": "くつう", "meaning": "pain/suffering" },
+        { "word": "痛い", "furigana": "いたい", "meaning": "sore/painful" },
+        { "word": "痛む", "furigana": "いたむ", "meaning": "ache/hurt" }
+      ]
+    },
+    {
+      "number": 420,
+      "character": "浴",
+      "stroke_count": 10,
+      "on_readings": ["ヨク"],
+      "kun_readings": ["あび-る"],
+      "words": [
+        { "word": "入浴", "furigana": "にゅうよく", "meaning": "bathing" },
+        { "word": "浴室", "furigana": "よくしつ", "meaning": "a bathroom" },
+        { "word": "海水浴", "furigana": "かいすいよく", "meaning": "sea bathing" },
+        { "word": "浴びる", "furigana": "あびる", "meaning": "pour (water) over oneself / soak up" },
+        { "word": "浴衣", "furigana": "ゆかた", "meaning": "yukata (summer kimono)" }
+      ]
+    },
+    {
+      "number": 421,
+      "character": "的",
+      "stroke_count": 8,
+      "on_readings": ["テキ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "目的", "furigana": "もくてき", "meaning": "an aim / purpose" },
+        { "word": "具体的(な)", "furigana": "ぐたいてき(な)", "meaning": "concrete/specific" },
+        { "word": "〜的", "furigana": "〜てき", "meaning": "like / in the manner of (adjectival-noun forming suffix)" },
+        { "word": "的確(な)", "furigana": "てきかく(な)", "meaning": "accurate/exact" }
+      ]
+    },
+    {
+      "number": 422,
+      "character": "汗",
+      "stroke_count": 6,
+      "on_readings": [],
+      "kun_readings": ["あせ"],
+      "words": [
+        { "word": "汗", "furigana": "あせ", "meaning": "perspiration/sweat" }
+      ]
+    },
+    {
+      "number": 423,
+      "character": "師",
+      "stroke_count": 10,
+      "on_readings": ["シ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "医師", "furigana": "いし", "meaning": "a doctor" },
+        { "word": "教師", "furigana": "きょうし", "meaning": "a teacher" },
+        { "word": "技師", "furigana": "ぎし", "meaning": "an engineer" }
+      ]
+    },
+    {
+      "number": 424,
+      "character": "談",
+      "stroke_count": 15,
+      "on_readings": ["ダン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "相談", "furigana": "そうだん", "meaning": "a consultation" },
+        { "word": "会談", "furigana": "かいだん", "meaning": "conference/talks" },
+        { "word": "冗談", "furigana": "じょうだん", "meaning": "a joke" }
+      ]
+    },
+    {
+      "number": 425,
+      "character": "燥",
+      "stroke_count": 17,
+      "on_readings": ["ソウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "乾燥", "furigana": "かんそう", "meaning": "dryness" }
+      ]
+    },
+    {
+      "number": 426,
+      "character": "折",
+      "stroke_count": 7,
+      "on_readings": ["セツ"],
+      "kun_readings": ["お-れる", "お-る"],
+      "words": [
+        { "word": "骨折", "furigana": "こっせつ", "meaning": "break/fold (something)" },
+        { "word": "折れる", "furigana": "おれる", "meaning": "break" },
+        { "word": "折る", "furigana": "おる", "meaning": "break/fold (something)" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "week": 5,
+  "chapter": 29,
+  "chapter_title": "家庭用品(ポット・ヒーター)",
+  "kanji": [
+    {
+      "number": 373,
+      "character": "傾",
+      "stroke_count": 13,
+      "on_readings": ["ケイ"],
+      "kun_readings": ["かたむ-く", "かたむ-ける"],
+      "words": [
+        { "word": "傾向", "furigana": "けいこう", "meaning": "a trend/tendency" },
+        { "word": "傾く", "furigana": "かたむく", "meaning": "tilt/incline" },
+        { "word": "傾ける", "furigana": "かたむける", "meaning": "(make something) tilt/incline" }
+      ]
+    },
+    {
+      "number": 374,
+      "character": "横",
+      "stroke_count": 15,
+      "on_readings": ["オウ"],
+      "kun_readings": ["よこ"],
+      "words": [
+        { "word": "横転", "furigana": "おうてん", "meaning": "overturn" },
+        { "word": "横", "furigana": "よこ", "meaning": "side" },
+        { "word": "横断歩道", "furigana": "おうだんほどう", "meaning": "a pedestrian crossing" }
+      ]
+    },
+    {
+      "number": 375,
+      "character": "湯",
+      "stroke_count": 12,
+      "on_readings": ["トウ"],
+      "kun_readings": ["ゆ"],
+      "words": [
+        { "word": "熱湯", "furigana": "ねっとう", "meaning": "boiling water" },
+        { "word": "湯飲み", "furigana": "ゆのみ", "meaning": "teacup" },
+        { "word": "湯", "furigana": "ゆ", "meaning": "hot water" },
+        { "word": "湯気", "furigana": "ゆげ", "meaning": "steam" }
+      ]
+    },
+    {
+      "number": 376,
+      "character": "恐",
+      "stroke_count": 10,
+      "on_readings": ["キョウ"],
+      "kun_readings": ["おそ-れる", "おそ-ろしい"],
+      "words": [
+        { "word": "恐怖", "furigana": "きょうふ", "meaning": "fear" },
+        { "word": "恐れ", "furigana": "おそれ", "meaning": "fear/risk" },
+        { "word": "恐ろしい", "furigana": "おそろしい", "meaning": "fearful/terrible" },
+        { "word": "恐れ入ります", "furigana": "おそれいります", "meaning": "I beg your pardon. / Excuse me." }
+      ]
+    },
+    {
+      "number": 377,
+      "character": "原",
+      "stroke_count": 10,
+      "on_readings": ["ゲン"],
+      "kun_readings": ["はら"],
+      "words": [
+        { "word": "原料", "furigana": "げんりょう", "meaning": "(raw) material" },
+        { "word": "野原", "furigana": "のはら", "meaning": "a field" },
+        { "word": "原産", "furigana": "げんさん", "meaning": "origin/native" }
+      ]
+    },
+    {
+      "number": 378,
+      "character": "因",
+      "stroke_count": 6,
+      "on_readings": ["イン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "原因", "furigana": "げんいん", "meaning": "a cause" },
+        { "word": "要因", "furigana": "よういん", "meaning": "a factor" }
+      ]
+    },
+    {
+      "number": 379,
+      "character": "置",
+      "stroke_count": 13,
+      "on_readings": ["チ"],
+      "kun_readings": ["おく"],
+      "words": [
+        { "word": "位置", "furigana": "いち", "meaning": "a location" },
+        { "word": "置く", "furigana": "おく", "meaning": "put" },
+        { "word": "装置", "furigana": "そうち", "meaning": "device" },
+        { "word": "物置", "furigana": "ものおき", "meaning": "a closet/storeroom" }
+      ]
+    },
+    {
+      "number": 380,
+      "character": "寝",
+      "stroke_count": 13,
+      "on_readings": ["シン"],
+      "kun_readings": ["ねる"],
+      "words": [
+        { "word": "寝室", "furigana": "しんしつ", "meaning": "a bedroom" },
+        { "word": "寝る", "furigana": "ねる", "meaning": "sleep" },
+        { "word": "寝坊", "furigana": "ねぼう", "meaning": "a late riser / getting up late" },
+        { "word": "昼寝", "furigana": "ひるね", "meaning": "a nap" }
+      ]
+    },
+    {
+      "number": 381,
+      "character": "熱",
+      "stroke_count": 15,
+      "on_readings": ["ネツ"],
+      "kun_readings": ["あつ-い"],
+      "words": [
+        { "word": "熱", "furigana": "ねつ", "meaning": "heat/fever" },
+        { "word": "熱中", "furigana": "ねっちゅう", "meaning": "mania/passion/enthusiasm" },
+        { "word": "熱心(な)", "furigana": "ねっしん(な)", "meaning": "enthusiastic/zealous" },
+        { "word": "熱い", "furigana": "あつい", "meaning": "hot" }
+      ]
+    },
+    {
+      "number": 382,
+      "character": "焼",
+      "stroke_count": 12,
+      "on_readings": ["ショウ"],
+      "kun_readings": ["や-く", "や-ける"],
+      "words": [
+        { "word": "燃焼", "furigana": "ねんしょう", "meaning": "combustion" },
+        { "word": "焼く", "furigana": "やく", "meaning": "roast/grill" },
+        { "word": "焼ける", "furigana": "やける", "meaning": "be burnt/baked" }
+      ]
+    },
+    {
+      "number": 383,
+      "character": "触",
+      "stroke_count": 13,
+      "on_readings": ["ショク"],
+      "kun_readings": ["さわ-る", "ふ-れる"],
+      "words": [
+        { "word": "接触", "furigana": "せっしょく", "meaning": "contact" },
+        { "word": "触れる", "furigana": "ふれる", "meaning": "touch/mention" },
+        { "word": "感触", "furigana": "かんしょく", "meaning": "(the sense of) touch" },
+        { "word": "触る", "furigana": "さわる", "meaning": "touch" }
+      ]
+    },
+    {
+      "number": 384,
+      "character": "灯",
+      "stroke_count": 6,
+      "on_readings": ["トウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "灯油", "furigana": "とうゆ", "meaning": "kerosene" },
+        { "word": "蛍光灯", "furigana": "けいこうとう", "meaning": "a fluorescent light" },
+        { "word": "灯台", "furigana": "とうだい", "meaning": "a lighthouse" },
+        { "word": "電灯", "furigana": "でんとう", "meaning": "an electric light" }
+      ]
+    },
+    {
+      "number": 385,
+      "character": "油",
+      "stroke_count": 8,
+      "on_readings": ["ユ"],
+      "kun_readings": ["あぶら"],
+      "words": [
+        { "word": "石油", "furigana": "せきゆ", "meaning": "oil (petroleum)" },
+        { "word": "油断", "furigana": "ゆだん", "meaning": "negligence/inattention" },
+        { "word": "原油", "furigana": "げんゆ", "meaning": "crude oil" },
+        { "word": "油", "furigana": "あぶら", "meaning": "oil" }
+      ]
+    },
+    {
+      "number": 386,
+      "character": "余",
+      "stroke_count": 7,
+      "on_readings": ["ヨ"],
+      "kun_readings": ["あま-る"],
+      "words": [
+        { "word": "余分(な)", "furigana": "よぶん(な)", "meaning": "excessive" },
+        { "word": "余裕", "furigana": "よゆう", "meaning": "leeway (e.g. time to spare)" },
+        { "word": "余計(な)", "furigana": "よけい(な)", "meaning": "excessive/needless" },
+        { "word": "余る", "furigana": "あまる", "meaning": "be left over" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "week": 6,
+  "chapter": 40,
+  "chapter_title": "文化財・展示",
+  "kanji": [
+    {
+      "number": 527,
+      "character": "財",
+      "stroke_count": 10,
+      "on_readings": ["ザイ", "サイ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "財産", "furigana": "ざいさん", "meaning": "property/fortune" },
+        { "word": "財布", "furigana": "さいふ", "meaning": "a wallet/purse" },
+        { "word": "文化財", "furigana": "ぶんかざい", "meaning": "cultural property" }
+      ]
+    },
+    {
+      "number": 528,
+      "character": "観",
+      "stroke_count": 18,
+      "on_readings": ["カン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "観光", "furigana": "かんこう", "meaning": "sightseeing" },
+        { "word": "観察", "furigana": "かんさつ", "meaning": "observation" },
+        { "word": "観客", "furigana": "かんきゃく", "meaning": "a spectator/audience" },
+        { "word": "観音", "furigana": "かんのん", "meaning": "Kannon/the Buddhist Deity of Mercy" }
+      ]
+    },
+    {
+      "number": 529,
+      "character": "宝",
+      "stroke_count": 8,
+      "on_readings": ["ホウ"],
+      "kun_readings": ["たから"],
+      "words": [
+        { "word": "宝石", "furigana": "ほうせき", "meaning": "a jewel/gem" },
+        { "word": "国宝", "furigana": "こくほう", "meaning": "a national treasure" },
+        { "word": "宝物館", "furigana": "ほうもつかん", "meaning": "museum of treasures" },
+        { "word": "宝物", "furigana": "たからもの", "meaning": "treasure" }
+      ]
+    },
+    {
+      "number": 530,
+      "character": "仏",
+      "stroke_count": 4,
+      "on_readings": ["ブツ"],
+      "kun_readings": ["ほとけ"],
+      "words": [
+        { "word": "仏教", "furigana": "ぶっきょう", "meaning": "Buddhism" },
+        { "word": "仏", "furigana": "ほとけ", "meaning": "Buddha/deceased person" },
+        { "word": "仏像", "furigana": "ぶつぞう", "meaning": "a statue of Buddha" },
+        { "word": "日仏", "furigana": "にちふつ", "meaning": "Japan and France" }
+      ]
+    },
+    {
+      "number": 531,
+      "character": "王",
+      "stroke_count": 4,
+      "on_readings": ["オウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "国王", "furigana": "こくおう", "meaning": "a king" },
+        { "word": "王女", "furigana": "おうじょ", "meaning": "a princess" },
+        { "word": "王子", "furigana": "おうじ", "meaning": "a prince" },
+        { "word": "女王", "furigana": "じょおう", "meaning": "a queen" }
+      ]
+    },
+    {
+      "number": 532,
+      "character": "銅",
+      "stroke_count": 14,
+      "on_readings": ["ドウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "銅", "furigana": "どう", "meaning": "copper/bronze" },
+        { "word": "銅像", "furigana": "どうぞう", "meaning": "a bronze statue" }
+      ]
+    },
+    {
+      "number": 533,
+      "character": "塔",
+      "stroke_count": 12,
+      "on_readings": ["トウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "塔", "furigana": "とう", "meaning": "a tower/pagoda" },
+        { "word": "〜塔", "furigana": "〜とう", "meaning": "... Pagoda" },
+        { "word": "五重の塔", "furigana": "ごじゅうのとう", "meaning": "a five-storied pagoda" }
+      ]
+    },
+    {
+      "number": 534,
+      "character": "絵",
+      "stroke_count": 12,
+      "on_readings": ["カイ", "エ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "絵", "furigana": "え", "meaning": "a picture" },
+        { "word": "絵画", "furigana": "かいが", "meaning": "a painting" },
+        { "word": "絵の具", "furigana": "えのぐ", "meaning": "paints/colors" }
+      ]
+    },
+    {
+      "number": 535,
+      "character": "略",
+      "stroke_count": 11,
+      "on_readings": ["リャク"],
+      "kun_readings": [],
+      "words": [
+        { "word": "略", "furigana": "りゃく", "meaning": "an abbreviation" },
+        { "word": "省略", "furigana": "しょうりゃく", "meaning": "abbreviation/abridgment" },
+        { "word": "略す", "furigana": "りゃくす", "meaning": "abbreviate" },
+        { "word": "略歴", "furigana": "りゃくれき", "meaning": "a profile" }
+      ]
+    },
+    {
+      "number": 536,
+      "character": "順",
+      "stroke_count": 12,
+      "on_readings": ["ジュン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "順", "furigana": "じゅん", "meaning": "order" },
+        { "word": "順番", "furigana": "じゅんばん", "meaning": "a turn/order" },
+        { "word": "順路", "furigana": "じゅんろ", "meaning": "a route" },
+        { "word": "順調", "furigana": "じゅんちょう", "meaning": "smooth/favorable" }
+      ]
+    },
+    {
+      "number": 537,
+      "character": "版",
+      "stroke_count": 8,
+      "on_readings": ["ハン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "出版", "furigana": "しゅっぱん", "meaning": "a publication" },
+        { "word": "版画", "furigana": "はんが", "meaning": "a print / an engraving" },
+        { "word": "出版社", "furigana": "しゅっぱんしゃ", "meaning": "publishing company" }
+      ]
+    },
+    {
+      "number": 538,
+      "character": "芸",
+      "stroke_count": 7,
+      "on_readings": ["ゲイ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "芸術", "furigana": "げいじゅつ", "meaning": "art" },
+        { "word": "芸能", "furigana": "げいのう", "meaning": "public entertainments" },
+        { "word": "工芸", "furigana": "こうげい", "meaning": "industrial arts" },
+        { "word": "園芸", "furigana": "えんげい", "meaning": "gardening" }
+      ]
+    },
+    {
+      "number": 539,
+      "character": "複",
+      "stroke_count": 14,
+      "on_readings": ["フク"],
+      "kun_readings": [],
+      "words": [
+        { "word": "複製", "furigana": "ふくせい", "meaning": "a duplicate/replica" },
+        { "word": "複写", "furigana": "ふくしゃ", "meaning": "a duplicate/copy" },
+        { "word": "複雑(な)", "furigana": "ふくざつ(な)", "meaning": "complex/complicated" },
+        { "word": "複数", "furigana": "ふくすう", "meaning": "the plural (number)" }
+      ]
+    },
+    {
+      "number": 540,
+      "character": "刊",
+      "stroke_count": 5,
+      "on_readings": ["カン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "刊行物", "furigana": "かんこうぶつ", "meaning": "a publication" },
+        { "word": "週刊", "furigana": "しゅうかん", "meaning": "weekly publication" },
+        { "word": "朝刊", "furigana": "ちょうかん", "meaning": "a morning newspaper" },
+        { "word": "月刊", "furigana": "げっかん", "meaning": "monthly publication" }
+      ]
+    }
+  ]
+}

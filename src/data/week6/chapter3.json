@@ -1,0 +1,180 @@
+{
+  "week": 6,
+  "chapter": 38,
+  "chapter_title": "広告",
+  "kanji": [
+    {
+      "number": 499,
+      "character": "泉",
+      "stroke_count": 9,
+      "on_readings": ["セン"],
+      "kun_readings": ["いずみ"],
+      "words": [
+        { "word": "温泉", "furigana": "おんせん", "meaning": "a hot spring" },
+        { "word": "泉", "furigana": "いずみ", "meaning": "a spring" }
+      ]
+    },
+    {
+      "number": 500,
+      "character": "宿",
+      "stroke_count": 11,
+      "on_readings": ["シュク"],
+      "kun_readings": ["やど"],
+      "words": [
+        { "word": "宿題", "furigana": "しゅくだい", "meaning": "a homework" },
+        { "word": "宿", "furigana": "やど", "meaning": "an inn" },
+        { "word": "下宿", "furigana": "げしゅく", "meaning": "lodgings" },
+        { "word": "宿泊", "furigana": "しゅくはく", "meaning": "lodging" }
+      ]
+    },
+    {
+      "number": 501,
+      "character": "季",
+      "stroke_count": 8,
+      "on_readings": ["キ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "季節", "furigana": "きせつ", "meaning": "a season" },
+        { "word": "冬季", "furigana": "とうき", "meaning": "the winter season" },
+        { "word": "四季", "furigana": "しき", "meaning": "four seasons" }
+      ]
+    },
+    {
+      "number": 502,
+      "character": "豊",
+      "stroke_count": 13,
+      "on_readings": ["ホウ"],
+      "kun_readings": ["ゆた-か"],
+      "words": [
+        { "word": "豊作", "furigana": "ほうさく", "meaning": "a bumper crop" },
+        { "word": "豊か(な)", "furigana": "ゆたか(な)", "meaning": "wealthy/abundant" }
+      ]
+    },
+    {
+      "number": 503,
+      "character": "富",
+      "stroke_count": 12,
+      "on_readings": ["フ"],
+      "kun_readings": ["と-む", "とみ"],
+      "words": [
+        { "word": "豊富(な)", "furigana": "ほうふ(な)", "meaning": "abundant" },
+        { "word": "富む", "furigana": "とむ", "meaning": "be wealthy/abundant" },
+        { "word": "富士山", "furigana": "ふじさん", "meaning": "Mount Fuji" },
+        { "word": "富", "furigana": "とみ", "meaning": "wealth" }
+      ]
+    },
+    {
+      "number": 504,
+      "character": "迎",
+      "stroke_count": 7,
+      "on_readings": ["ゲイ"],
+      "kun_readings": ["むか-える"],
+      "words": [
+        { "word": "送迎", "furigana": "そうげい", "meaning": "a pickup service" },
+        { "word": "迎える", "furigana": "むかえる", "meaning": "(go to) meet / welcome" },
+        { "word": "歓迎", "furigana": "かんげい", "meaning": "a welcome" },
+        { "word": "出迎え", "furigana": "でむかえ", "meaning": "going to meet someone" }
+      ]
+    },
+    {
+      "number": 505,
+      "character": "泊",
+      "stroke_count": 8,
+      "on_readings": ["ハク"],
+      "kun_readings": ["と-まる", "と-める"],
+      "words": [
+        { "word": "〜泊", "furigana": "〜はく", "meaning": "... night stay" },
+        { "word": "泊まる", "furigana": "とまる", "meaning": "stay" },
+        { "word": "宿泊", "furigana": "しゅくはく", "meaning": "lodging" }
+      ]
+    },
+    {
+      "number": 506,
+      "character": "居",
+      "stroke_count": 8,
+      "on_readings": ["キョ"],
+      "kun_readings": ["い-る"],
+      "words": [
+        { "word": "入居", "furigana": "にゅうきょ", "meaning": "moving into (e.g. an apartment)" },
+        { "word": "居眠り", "furigana": "いねむり", "meaning": "a doze" },
+        { "word": "居間", "furigana": "いま", "meaning": "a living room" },
+        { "word": "居る", "furigana": "いる", "meaning": "be/exist" }
+      ]
+    },
+    {
+      "number": 507,
+      "character": "築",
+      "stroke_count": 16,
+      "on_readings": ["チク"],
+      "kun_readings": [],
+      "words": [
+        { "word": "築〜年", "furigana": "ちく〜ねん", "meaning": "built in ... (year)" },
+        { "word": "建築", "furigana": "けんちく", "meaning": "architecture" }
+      ]
+    },
+    {
+      "number": 508,
+      "character": "角",
+      "stroke_count": 7,
+      "on_readings": ["カク"],
+      "kun_readings": ["かど"],
+      "words": [
+        { "word": "三角", "furigana": "さんかく", "meaning": "a triangle" },
+        { "word": "方角", "furigana": "ほうかく", "meaning": "direction/way" },
+        { "word": "角度", "furigana": "かくど", "meaning": "an angle" },
+        { "word": "角", "furigana": "かど", "meaning": "a corner" }
+      ]
+    },
+    {
+      "number": 509,
+      "character": "徒",
+      "stroke_count": 10,
+      "on_readings": ["ト"],
+      "kun_readings": [],
+      "words": [
+        { "word": "生徒", "furigana": "せいと", "meaning": "a student" },
+        { "word": "徒歩", "furigana": "とほ", "meaning": "going on foot" }
+      ]
+    },
+    {
+      "number": 510,
+      "character": "畳",
+      "stroke_count": 12,
+      "on_readings": ["ジョウ"],
+      "kun_readings": ["たた-む", "たたみ"],
+      "words": [
+        { "word": "畳", "furigana": "たたみ", "meaning": "tatami (Japanese straw mat)" },
+        { "word": "〜畳", "furigana": "〜じょう", "meaning": "... mats" },
+        { "word": "畳む", "furigana": "たたむ", "meaning": "fold" }
+      ]
+    },
+    {
+      "number": 511,
+      "character": "米",
+      "stroke_count": 6,
+      "on_readings": ["ベイ", "マイ"],
+      "kun_readings": ["こめ"],
+      "words": [
+        { "word": "欧米", "furigana": "おうべい", "meaning": "Europe and America / the West" },
+        { "word": "新米", "furigana": "しんまい", "meaning": "① new rice ② new face" },
+        { "word": "平米", "furigana": "へいべい", "meaning": "square meters" },
+        { "word": "米", "furigana": "こめ", "meaning": "rice" }
+      ]
+    },
+    {
+      "number": 512,
+      "character": "解",
+      "stroke_count": 13,
+      "on_readings": ["カイ", "トク"],
+      "kun_readings": ["と-く", "と-ける"],
+      "words": [
+        { "word": "解説", "furigana": "かいせつ", "meaning": "an explanation" },
+        { "word": "解放", "furigana": "かいほう", "meaning": "a release" },
+        { "word": "解約", "furigana": "かいやく", "meaning": "a cancellation (of a contract)" },
+        { "word": "解決", "furigana": "かいけつ", "meaning": "a solution" },
+        { "word": "解散", "furigana": "かいさん", "meaning": "dissolution" },
+        { "word": "解く", "furigana": "とく", "meaning": "solve/untie" }
+      ]
+    }
+  ]
+}

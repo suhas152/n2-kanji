@@ -1,0 +1,169 @@
+{
+  "week": 6,
+  "chapter": 41,
+  "chapter_title": "どっち？",
+  "kanji": [
+    {
+      "number": 541,
+      "character": "層",
+      "stroke_count": 14,
+      "on_readings": ["ソウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "高層", "furigana": "こうそう", "meaning": "the upper layers" },
+        { "word": "一層", "furigana": "いっそう", "meaning": "more / still more" },
+        { "word": "低層", "furigana": "ていそう", "meaning": "the lower layers" }
+      ]
+    },
+    {
+      "number": 542,
+      "character": "束",
+      "stroke_count": 7,
+      "on_readings": ["ソク"],
+      "kun_readings": ["たば"],
+      "words": [
+        { "word": "約束", "furigana": "やくそく", "meaning": "promise/appointment" },
+        { "word": "花束", "furigana": "はなたば", "meaning": "bunch of flowers" },
+        { "word": "束", "furigana": "たば", "meaning": "a bunch/bundle" },
+        { "word": "束ねる", "furigana": "たばねる", "meaning": "bind in a bunch/bundle" }
+      ]
+    },
+    {
+      "number": 543,
+      "character": "甘",
+      "stroke_count": 5,
+      "on_readings": [],
+      "kun_readings": ["あま-い", "あま-やかす"],
+      "words": [
+        { "word": "甘い", "furigana": "あまい", "meaning": "sweet" },
+        { "word": "甘やかす", "furigana": "あまやかす", "meaning": "spoil (a child)" },
+        { "word": "甘口", "furigana": "あまくち", "meaning": "the sweet side" }
+      ]
+    },
+    {
+      "number": 544,
+      "character": "辛",
+      "stroke_count": 7,
+      "on_readings": [],
+      "kun_readings": ["から-い"],
+      "words": [
+        { "word": "辛い", "furigana": "からい", "meaning": "(spicy) hot" },
+        { "word": "辛口", "furigana": "からくち", "meaning": "the dry side" }
+      ]
+    },
+    {
+      "number": 545,
+      "character": "皿",
+      "stroke_count": 5,
+      "on_readings": [],
+      "kun_readings": ["さら"],
+      "words": [
+        { "word": "皿", "furigana": "さら", "meaning": "plate" },
+        { "word": "大皿", "furigana": "おおざら", "meaning": "a big plate" },
+        { "word": "〜皿", "furigana": "〜さら", "meaning": "... plates" },
+        { "word": "小皿", "furigana": "こざら", "meaning": "a small plate" }
+      ]
+    },
+    {
+      "number": 546,
+      "character": "綿",
+      "stroke_count": 14,
+      "on_readings": ["メン"],
+      "kun_readings": ["わた"],
+      "words": [
+        { "word": "綿", "furigana": "めん", "meaning": "cotton" },
+        { "word": "綿", "furigana": "わた", "meaning": "cotton (wool) / a cotton plant" },
+        { "word": "木綿", "furigana": "もめん", "meaning": "cotton / cotton cloth" }
+      ]
+    },
+    {
+      "number": 547,
+      "character": "旧",
+      "stroke_count": 5,
+      "on_readings": ["キュウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "旧館", "furigana": "きゅうかん", "meaning": "the older building" },
+        { "word": "復旧", "furigana": "ふっきゅう", "meaning": "restoration" },
+        { "word": "旧姓", "furigana": "きゅうせい", "meaning": "a maiden name" }
+      ]
+    },
+    {
+      "number": 548,
+      "character": "厚",
+      "stroke_count": 9,
+      "on_readings": ["コウ"],
+      "kun_readings": ["あつ-い"],
+      "words": [
+        { "word": "厚い", "furigana": "あつい", "meaning": "thick" },
+        { "word": "厚かましい", "furigana": "あつかましい", "meaning": "impudent" },
+        { "word": "厚切り", "furigana": "あつぎり", "meaning": "thick slice" },
+        { "word": "厚手", "furigana": "あつで", "meaning": "a thickly made article" }
+      ]
+    },
+    {
+      "number": 549,
+      "character": "薄",
+      "stroke_count": 16,
+      "on_readings": [],
+      "kun_readings": ["うす-い", "うす-める"],
+      "words": [
+        { "word": "薄い", "furigana": "うすい", "meaning": "thin (material) / light (color) / weak (drink)" },
+        { "word": "薄手", "furigana": "うすで", "meaning": "a thinly made article" },
+        { "word": "薄切り", "furigana": "うすぎり", "meaning": "thin slice" },
+        { "word": "薄める", "furigana": "うすめる", "meaning": "dilute" }
+      ]
+    },
+    {
+      "number": 550,
+      "character": "粒",
+      "stroke_count": 11,
+      "on_readings": [],
+      "kun_readings": ["つぶ"],
+      "words": [
+        { "word": "粒", "furigana": "つぶ", "meaning": "grain" },
+        { "word": "〜粒", "furigana": "〜つぶ", "meaning": "... grains" }
+      ]
+    },
+    {
+      "number": 551,
+      "character": "極",
+      "stroke_count": 12,
+      "on_readings": ["キョク", "ゴク"],
+      "kun_readings": [],
+      "words": [
+        { "word": "北極", "furigana": "ほっきょく", "meaning": "the North Pole" },
+        { "word": "積極的(な)", "furigana": "せっきょくてき(な)", "meaning": "active/positive" },
+        { "word": "極", "furigana": "ごく", "meaning": "very/extremely" },
+        { "word": "南極", "furigana": "なんきょく", "meaning": "the South Pole" },
+        { "word": "消極的(な)", "furigana": "しょうきょくてき(な)", "meaning": "passive/negative" }
+      ]
+    },
+    {
+      "number": 552,
+      "character": "革",
+      "stroke_count": 9,
+      "on_readings": ["カク"],
+      "kun_readings": ["かわ"],
+      "words": [
+        { "word": "改革", "furigana": "かいかく", "meaning": "a reform" },
+        { "word": "革", "furigana": "かわ", "meaning": "leather" },
+        { "word": "革命", "furigana": "かくめい", "meaning": "a revolution" },
+        { "word": "革製", "furigana": "かわせい", "meaning": "made of leather" }
+      ]
+    },
+    {
+      "number": 553,
+      "character": "苦",
+      "stroke_count": 8,
+      "on_readings": ["ク"],
+      "kun_readings": ["くる-しい", "くる-しむ", "にが-い"],
+      "words": [
+        { "word": "苦痛", "furigana": "くつう", "meaning": "pain/suffering" },
+        { "word": "苦しい", "furigana": "くるしい", "meaning": "distressful/trying" },
+        { "word": "苦い", "furigana": "にがい", "meaning": "bitter" },
+        { "word": "苦しむ", "furigana": "くるしむ", "meaning": "suffer" }
+      ]
+    }
+  ]
+}

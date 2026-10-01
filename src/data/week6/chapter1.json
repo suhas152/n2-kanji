@@ -1,0 +1,183 @@
+{
+  "week": 6,
+  "chapter": 36,
+  "chapter_title": "広告・チラシ",
+  "kanji": [
+    {
+      "number": 471,
+      "character": "得",
+      "stroke_count": 11,
+      "on_readings": ["トク"],
+      "kun_readings": ["え-る", "う-る"],
+      "words": [
+        { "word": "得", "furigana": "とく", "meaning": "a profit/benefit" },
+        { "word": "得る", "furigana": "える", "meaning": "obtain" },
+        { "word": "納得", "furigana": "なっとく", "meaning": "assent/understanding" },
+        { "word": "心得る", "furigana": "こころえる", "meaning": "understand / be well aware" }
+      ]
+    },
+    {
+      "number": 472,
+      "character": "告",
+      "stroke_count": 7,
+      "on_readings": ["コク"],
+      "kun_readings": ["つ-げる"],
+      "words": [
+        { "word": "広告", "furigana": "こうこく", "meaning": "an advertisement" },
+        { "word": "警告", "furigana": "けいこく", "meaning": "warning/caution" },
+        { "word": "報告", "furigana": "ほうこく", "meaning": "a report" },
+        { "word": "告げる", "furigana": "つげる", "meaning": "inform" }
+      ]
+    },
+    {
+      "number": 473,
+      "character": "税",
+      "stroke_count": 12,
+      "on_readings": ["ゼイ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "税金", "furigana": "ぜいきん", "meaning": "a tax" },
+        { "word": "税関", "furigana": "ぜいかん", "meaning": "Customs" },
+        { "word": "消費税", "furigana": "しょうひぜい", "meaning": "a consumption tax" },
+        { "word": "課税", "furigana": "かぜい", "meaning": "taxation" }
+      ]
+    },
+    {
+      "number": 474,
+      "character": "価",
+      "stroke_count": 8,
+      "on_readings": ["カ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "定価", "furigana": "ていか", "meaning": "a fixed price" },
+        { "word": "価格", "furigana": "かかく", "meaning": "a price" },
+        { "word": "物価", "furigana": "ぶっか", "meaning": "price / cost of living" }
+      ]
+    },
+    {
+      "number": 475,
+      "character": "格",
+      "stroke_count": 10,
+      "on_readings": ["カク"],
+      "kun_readings": [],
+      "words": [
+        { "word": "価格", "furigana": "かかく", "meaning": "a price" },
+        { "word": "性格", "furigana": "せいかく", "meaning": "character/personality" }
+      ]
+    },
+    {
+      "number": 476,
+      "character": "超",
+      "stroke_count": 12,
+      "on_readings": ["チョウ"],
+      "kun_readings": ["こ-える", "こ-す"],
+      "words": [
+        { "word": "超〜", "furigana": "ちょう〜", "meaning": "ultra-/super-" },
+        { "word": "超える", "furigana": "こえる", "meaning": "get over / go over / exceed" },
+        { "word": "超過", "furigana": "ちょうか", "meaning": "excess/surplus" },
+        { "word": "超す", "furigana": "こす", "meaning": "cross/pass/exceed" }
+      ]
+    },
+    {
+      "number": 477,
+      "character": "均",
+      "stroke_count": 7,
+      "on_readings": ["キン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "平均", "furigana": "へいきん", "meaning": "an average" },
+        { "word": "均一", "furigana": "きんいつ", "meaning": "uniformity" },
+        { "word": "均等", "furigana": "きんとう", "meaning": "uniformity/equality" }
+      ]
+    },
+    {
+      "number": 478,
+      "character": "靴",
+      "stroke_count": 13,
+      "on_readings": [],
+      "kun_readings": ["くつ"],
+      "words": [
+        { "word": "靴", "furigana": "くつ", "meaning": "shoes" },
+        { "word": "長靴", "furigana": "ながぐつ", "meaning": "boots" },
+        { "word": "靴下", "furigana": "くつした", "meaning": "socks" },
+        { "word": "雨靴", "furigana": "あまぐつ", "meaning": "rain shoes" }
+      ]
+    },
+    {
+      "number": 479,
+      "character": "供",
+      "stroke_count": 8,
+      "on_readings": ["キョウ"],
+      "kun_readings": ["とも"],
+      "words": [
+        { "word": "提供", "furigana": "ていきょう", "meaning": "an offer / a tender" },
+        { "word": "子供", "furigana": "こども", "meaning": "a child" }
+      ]
+    },
+    {
+      "number": 480,
+      "character": "象",
+      "stroke_count": 12,
+      "on_readings": ["ショウ", "ゾウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "印象", "furigana": "いんしょう", "meaning": "an impression" },
+        { "word": "対象", "furigana": "たいしょう", "meaning": "object (e.g. of study)" },
+        { "word": "現象", "furigana": "げんしょう", "meaning": "a phenomenon" },
+        { "word": "象", "furigana": "ぞう", "meaning": "an elephant" }
+      ]
+    },
+    {
+      "number": 481,
+      "character": "組",
+      "stroke_count": 11,
+      "on_readings": ["ソ"],
+      "kun_readings": ["く-む", "くみ"],
+      "words": [
+        { "word": "組織", "furigana": "そしき", "meaning": "an organization" },
+        { "word": "組み合わせ", "furigana": "くみあわせ", "meaning": "combination" },
+        { "word": "番組", "furigana": "ばんぐみ", "meaning": "a (TV) program" },
+        { "word": "組合", "furigana": "くみあい", "meaning": "an association" }
+      ]
+    },
+    {
+      "number": 482,
+      "character": "値",
+      "stroke_count": 10,
+      "on_readings": ["チ"],
+      "kun_readings": ["ね", "あたい"],
+      "words": [
+        { "word": "価値", "furigana": "かち", "meaning": "value/worth" },
+        { "word": "値段", "furigana": "ねだん", "meaning": "a price" },
+        { "word": "数値", "furigana": "すうち", "meaning": "an numerical value" },
+        { "word": "値", "furigana": "あたい", "meaning": "value" }
+      ]
+    },
+    {
+      "number": 483,
+      "character": "募",
+      "stroke_count": 12,
+      "on_readings": ["ボ"],
+      "kun_readings": ["つの-る"],
+      "words": [
+        { "word": "募集", "furigana": "ぼしゅう", "meaning": "recruitment" },
+        { "word": "募金", "furigana": "ぼきん", "meaning": "fund-raising" },
+        { "word": "応募", "furigana": "おうぼ", "meaning": "an application" },
+        { "word": "募る", "furigana": "つのる", "meaning": "collect/raise (money), recruit" }
+      ]
+    },
+    {
+      "number": 484,
+      "character": "無",
+      "stroke_count": 12,
+      "on_readings": ["ム"],
+      "kun_readings": ["な-い"],
+      "words": [
+        { "word": "無料", "furigana": "むりょう", "meaning": "no charge" },
+        { "word": "無事", "furigana": "ぶじ", "meaning": "unharmed/safe" },
+        { "word": "有無", "furigana": "うむ", "meaning": "existence or nonexistence" },
+        { "word": "〜無し", "furigana": "〜なし", "meaning": "no ..." }
+      ]
+    }
+  ]
+}

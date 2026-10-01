@@ -1,39 +1,28 @@
 export default function KanjiCard({ kanji, index, total, onPrev, onNext }) {
-  const wordCount = kanji.words.length;
-
   return (
-    <div className="bg-white rounded-2xl border border-stone-200 shadow-sm overflow-hidden">
+    <div className="rounded-2xl border overflow-hidden" style={{ backgroundColor: '#16161d', borderColor: '#2a2a3a' }}>
       {/* Counter */}
-      <div className="flex items-center justify-between px-5 py-3 border-b border-stone-100 bg-stone-50">
-        <span className="text-sm text-stone-500 font-medium">
-          Kanji #{kanji.number}
-        </span>
-        <span className="text-sm text-stone-400">
-          {index + 1} / {total}
-        </span>
+      <div className="flex items-center justify-between px-5 py-3 border-b" style={{ backgroundColor: '#0f0f13', borderColor: '#2a2a3a' }}>
+        <span className="text-sm font-medium" style={{ color: '#6b6b80' }}>Kanji #{kanji.number}</span>
+        <span className="text-sm" style={{ color: '#4a4a5a' }}>{index + 1} / {total}</span>
       </div>
 
-      {/* Main kanji display */}
+      {/* Kanji display */}
       <div className="flex flex-col items-center py-10 px-6">
-        <div className="text-8xl font-bold text-stone-900 leading-none select-none mb-3">
+        <div className="font-bold leading-none select-none mb-3" style={{ fontSize: '6rem', color: '#f0eeff' }}>
           {kanji.character}
         </div>
-        <div className="text-stone-400 text-sm">{kanji.stroke_count} strokes</div>
+        <div className="text-sm" style={{ color: '#4a4a5a' }}>{kanji.stroke_count} strokes</div>
       </div>
 
       {/* Readings */}
-      <div className="px-6 pb-5 space-y-3 border-t border-stone-100 pt-5">
+      <div className="px-6 pb-5 space-y-3 border-t pt-5" style={{ borderColor: '#2a2a3a' }}>
         {kanji.on_readings.length > 0 && (
           <div className="flex items-start gap-3">
-            <span className="text-xs font-semibold text-indigo-600 uppercase tracking-wider w-16 pt-0.5">
-              ON
-            </span>
+            <span className="text-xs font-bold uppercase tracking-wider w-16 pt-0.5" style={{ color: '#a855f7' }}>ON</span>
             <div className="flex flex-wrap gap-2">
               {kanji.on_readings.map((r, i) => (
-                <span
-                  key={i}
-                  className="px-3 py-1 bg-indigo-50 text-indigo-800 rounded-full text-sm font-medium"
-                >
+                <span key={i} className="px-3 py-1 rounded-full text-sm font-medium" style={{ backgroundColor: '#2d1f47', color: '#c084fc' }}>
                   {r}
                 </span>
               ))}
@@ -42,15 +31,10 @@ export default function KanjiCard({ kanji, index, total, onPrev, onNext }) {
         )}
         {kanji.kun_readings.length > 0 && (
           <div className="flex items-start gap-3">
-            <span className="text-xs font-semibold text-emerald-600 uppercase tracking-wider w-16 pt-0.5">
-              KUN
-            </span>
+            <span className="text-xs font-bold uppercase tracking-wider w-16 pt-0.5" style={{ color: '#34d399' }}>KUN</span>
             <div className="flex flex-wrap gap-2">
               {kanji.kun_readings.map((r, i) => (
-                <span
-                  key={i}
-                  className="px-3 py-1 bg-emerald-50 text-emerald-800 rounded-full text-sm font-medium"
-                >
+                <span key={i} className="px-3 py-1 rounded-full text-sm font-medium" style={{ backgroundColor: '#064e3b', color: '#6ee7b7' }}>
                   {r}
                 </span>
               ))}
@@ -60,34 +44,40 @@ export default function KanjiCard({ kanji, index, total, onPrev, onNext }) {
       </div>
 
       {/* Vocabulary */}
-      <div className="border-t border-stone-100 px-6 py-5">
-        <h3 className="text-xs font-semibold text-stone-400 uppercase tracking-wider mb-3">
-          Vocabulary ({wordCount})
+      <div className="border-t px-6 py-5" style={{ borderColor: '#2a2a3a' }}>
+        <h3 className="text-xs font-bold uppercase tracking-wider mb-3" style={{ color: '#4a4a5a' }}>
+          Vocabulary ({kanji.words.length})
         </h3>
         <div className="space-y-3">
           {kanji.words.map((w, i) => (
-            <div key={i} className="bg-stone-50 rounded-xl px-4 py-3">
-              <div className="text-xl font-bold text-stone-900">{w.word}</div>
-              <div className="text-sm text-indigo-600 mt-0.5">{w.furigana}</div>
-              <div className="text-sm text-stone-500 mt-0.5">{w.meaning}</div>
+            <div key={i} className="rounded-xl px-4 py-3" style={{ backgroundColor: '#0f0f13', border: '1px solid #2a2a3a' }}>
+              <div className="text-xl font-bold" style={{ color: '#f0eeff' }}>{w.word}</div>
+              <div className="text-sm mt-0.5" style={{ color: '#a855f7' }}>{w.furigana}</div>
+              <div className="text-sm mt-0.5" style={{ color: '#9b9bb0' }}>{w.meaning}</div>
             </div>
           ))}
         </div>
       </div>
 
       {/* Navigation */}
-      <div className="flex items-center justify-between px-6 py-4 border-t border-stone-100 bg-stone-50">
+      <div className="flex items-center justify-between px-6 py-4 border-t" style={{ borderColor: '#2a2a3a', backgroundColor: '#0f0f13' }}>
         <button
           onClick={onPrev}
           disabled={index === 0}
-          className="flex items-center gap-1.5 px-4 py-2 rounded-lg text-sm font-medium text-stone-600 hover:bg-stone-200 disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+          className="px-4 py-2 rounded-lg text-sm font-medium transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
+          style={{ color: '#9b9bb0', backgroundColor: 'transparent' }}
+          onMouseEnter={e => { if (index !== 0) e.currentTarget.style.backgroundColor = '#1e1e2a'; }}
+          onMouseLeave={e => e.currentTarget.style.backgroundColor = 'transparent'}
         >
           ← Previous
         </button>
         <button
           onClick={onNext}
           disabled={index === total - 1}
-          className="flex items-center gap-1.5 px-4 py-2 rounded-lg text-sm font-medium text-stone-600 hover:bg-stone-200 disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+          className="px-4 py-2 rounded-lg text-sm font-medium transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
+          style={{ color: '#9b9bb0', backgroundColor: 'transparent' }}
+          onMouseEnter={e => { if (index !== total - 1) e.currentTarget.style.backgroundColor = '#1e1e2a'; }}
+          onMouseLeave={e => e.currentTarget.style.backgroundColor = 'transparent'}
         >
           Next →
         </button>

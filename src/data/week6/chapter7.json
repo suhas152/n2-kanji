@@ -1,0 +1,117 @@
+{
+  "week": 6,
+  "chapter": 42,
+  "chapter_title": "見た目が似ている漢字",
+  "kanji": [
+    {
+      "number": 554,
+      "character": "困",
+      "stroke_count": 7,
+      "on_readings": ["コン"],
+      "kun_readings": ["こま-る"],
+      "words": [
+        { "word": "困る", "furigana": "こまる", "meaning": "be in trouble" }
+      ]
+    },
+    {
+      "number": 555,
+      "character": "氷",
+      "stroke_count": 5,
+      "on_readings": [],
+      "kun_readings": ["こおり"],
+      "words": [
+        { "word": "氷", "furigana": "こおり", "meaning": "ice" }
+      ]
+    },
+    {
+      "number": 556,
+      "character": "永",
+      "stroke_count": 5,
+      "on_readings": ["エイ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "永久", "furigana": "えいきゅう", "meaning": "permanence/eternity" }
+      ]
+    },
+    {
+      "number": 557,
+      "character": "夫",
+      "stroke_count": 4,
+      "on_readings": ["フウ"],
+      "kun_readings": ["おっと"],
+      "words": [
+        { "word": "夫", "furigana": "おっと", "meaning": "husband" }
+      ]
+    },
+    {
+      "number": 558,
+      "character": "識",
+      "stroke_count": 19,
+      "on_readings": ["シキ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "知識", "furigana": "ちしき", "meaning": "knowledge" }
+      ]
+    },
+    {
+      "number": 559,
+      "character": "狭",
+      "stroke_count": 9,
+      "on_readings": [],
+      "kun_readings": ["はさ-む", "はさ-まる"],
+      "words": [
+        { "word": "挟む", "furigana": "はさむ", "meaning": "pinch/insert" }
+      ]
+    },
+    {
+      "number": 560,
+      "character": "狭",
+      "stroke_count": 9,
+      "on_readings": [],
+      "kun_readings": ["せま-い"],
+      "words": [
+        { "word": "狭い", "furigana": "せまい", "meaning": "narrow" }
+      ]
+    },
+    {
+      "number": 561,
+      "character": "群",
+      "stroke_count": 13,
+      "on_readings": ["グン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "群れ", "furigana": "むれ", "meaning": "a herd/flock/group" }
+      ]
+    },
+    {
+      "number": 562,
+      "character": "祖",
+      "stroke_count": 9,
+      "on_readings": ["ソ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "祖先", "furigana": "そせん", "meaning": "ancestors" }
+      ]
+    },
+    {
+      "number": 563,
+      "character": "隅",
+      "stroke_count": 12,
+      "on_readings": [],
+      "kun_readings": ["すみ"],
+      "words": [
+        { "word": "隅", "furigana": "すみ", "meaning": "corner (of a room)" }
+      ]
+    },
+    {
+      "number": 564,
+      "character": "偶",
+      "stroke_count": 11,
+      "on_readings": ["グウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "偶数", "furigana": "ぐうすう", "meaning": "even number" }
+      ]
+    }
+  ]
+}

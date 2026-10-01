@@ -1,0 +1,184 @@
+{
+  "week": 6,
+  "chapter": 37,
+  "chapter_title": "折り込み広告",
+  "kanji": [
+    {
+      "number": 485,
+      "character": "詰",
+      "stroke_count": 13,
+      "on_readings": [],
+      "kun_readings": ["つ-める", "つ-まる"],
+      "words": [
+        { "word": "詰める", "furigana": "つめる", "meaning": "stuff/cram/pack" },
+        { "word": "箱詰め", "furigana": "はこづめ", "meaning": "food etc. in a box" },
+        { "word": "缶詰", "furigana": "かんづめ", "meaning": "food etc. in a can" }
+      ]
+    },
+    {
+      "number": 486,
+      "character": "麦",
+      "stroke_count": 7,
+      "on_readings": [],
+      "kun_readings": ["むぎ"],
+      "words": [
+        { "word": "小麦粉", "furigana": "こむぎこ", "meaning": "(wheat) flour" },
+        { "word": "麦畑", "furigana": "むぎばたけ", "meaning": "a wheat field" }
+      ]
+    },
+    {
+      "number": 487,
+      "character": "純",
+      "stroke_count": 10,
+      "on_readings": ["ジュン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "純粋(な)", "furigana": "じゅんすい(な)", "meaning": "pure" },
+        { "word": "単純(な)", "furigana": "たんじゅん(な)", "meaning": "simple/simple-minded" },
+        { "word": "純情(な)", "furigana": "じゅんじょう(な)", "meaning": "a pure heart" },
+        { "word": "純米酢", "furigana": "じゅんまいす", "meaning": "pure rice vinegar" }
+      ]
+    },
+    {
+      "number": 488,
+      "character": "草",
+      "stroke_count": 9,
+      "on_readings": ["ソウ"],
+      "kun_readings": ["くさ"],
+      "words": [
+        { "word": "雑草", "furigana": "ざっそう", "meaning": "weed" },
+        { "word": "草", "furigana": "くさ", "meaning": "grass" },
+        { "word": "除草", "furigana": "じょそう", "meaning": "weeding" },
+        { "word": "草花", "furigana": "くさばな", "meaning": "a flowering plant" }
+      ]
+    },
+    {
+      "number": 489,
+      "character": "塩",
+      "stroke_count": 13,
+      "on_readings": ["エン"],
+      "kun_readings": ["しお"],
+      "words": [
+        { "word": "食塩", "furigana": "しょくえん", "meaning": "table salt" },
+        { "word": "塩", "furigana": "しお", "meaning": "salt" }
+      ]
+    },
+    {
+      "number": 490,
+      "character": "固",
+      "stroke_count": 8,
+      "on_readings": ["コ"],
+      "kun_readings": ["かた-い", "かた-まる"],
+      "words": [
+        { "word": "固定", "furigana": "こてい", "meaning": "stability/fixation" },
+        { "word": "固形", "furigana": "こけい", "meaning": "solid (form)" },
+        { "word": "固い", "furigana": "かたい", "meaning": "hard" },
+        { "word": "固体", "furigana": "こたい", "meaning": "solid (body)" },
+        { "word": "固まる", "furigana": "かたまる", "meaning": "harden" }
+      ]
+    },
+    {
+      "number": 491,
+      "character": "演",
+      "stroke_count": 14,
+      "on_readings": ["エン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "実演", "furigana": "じつえん", "meaning": "a demonstration" },
+        { "word": "演習", "furigana": "えんしゅう", "meaning": "exercises/maneuvers" },
+        { "word": "演技", "furigana": "えんぎ", "meaning": "acting/performance" },
+        { "word": "演説", "furigana": "えんぜつ", "meaning": "a speech/oration" }
+      ]
+    },
+    {
+      "number": 492,
+      "character": "菓",
+      "stroke_count": 11,
+      "on_readings": ["カ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "菓子", "furigana": "かし", "meaning": "sweets" },
+        { "word": "和菓子", "furigana": "わがし", "meaning": "Japanese sweets" },
+        { "word": "洋菓子", "furigana": "ようがし", "meaning": "Western sweets" }
+      ]
+    },
+    {
+      "number": 493,
+      "character": "贈",
+      "stroke_count": 18,
+      "on_readings": [],
+      "kun_readings": ["おく-る"],
+      "words": [
+        { "word": "贈り物", "furigana": "おくりもの", "meaning": "a gift" },
+        { "word": "贈る", "furigana": "おくる", "meaning": "present/give" }
+      ]
+    },
+    {
+      "number": 494,
+      "character": "省",
+      "stroke_count": 9,
+      "on_readings": ["セイ", "ショウ"],
+      "kun_readings": ["はぶ-く"],
+      "words": [
+        { "word": "帰省", "furigana": "きせい", "meaning": "homecoming" },
+        { "word": "〜省", "furigana": "〜しょう", "meaning": "Ministry of ..." },
+        { "word": "省く", "furigana": "はぶく", "meaning": "delete/omit" },
+        { "word": "反省", "furigana": "はんせい", "meaning": "self-examination" },
+        { "word": "省エネ", "furigana": "しょうえね", "meaning": "energy saving" },
+        { "word": "省略", "furigana": "しょうりゃく", "meaning": "an abbreviation/omission" }
+      ]
+    },
+    {
+      "number": 495,
+      "character": "承",
+      "stroke_count": 8,
+      "on_readings": ["ショウ"],
+      "kun_readings": ["うけたまわ-る"],
+      "words": [
+        { "word": "了承", "furigana": "りょうしょう", "meaning": "consent/approval" },
+        { "word": "承知", "furigana": "しょうち", "meaning": "knowledge/consent" },
+        { "word": "承認", "furigana": "しょうにん", "meaning": "approval/confirmation" },
+        { "word": "承る", "furigana": "うけたまわる", "meaning": "serve/attend to" }
+      ]
+    },
+    {
+      "number": 496,
+      "character": "展",
+      "stroke_count": 10,
+      "on_readings": ["テン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "展覧会", "furigana": "てんらんかい", "meaning": "an exhibition" },
+        { "word": "〜展", "furigana": "〜てん", "meaning": "... exhibition" },
+        { "word": "展示", "furigana": "てんじ", "meaning": "exhibition/display" },
+        { "word": "発展", "furigana": "はってん", "meaning": "development" }
+      ]
+    },
+    {
+      "number": 497,
+      "character": "破",
+      "stroke_count": 10,
+      "on_readings": ["ハ"],
+      "kun_readings": ["やぶ-れる", "やぶ-る"],
+      "words": [
+        { "word": "破格", "furigana": "はかく", "meaning": "exceptional" },
+        { "word": "破片", "furigana": "はへん", "meaning": "a fragment" },
+        { "word": "破れる", "furigana": "やぶれる", "meaning": "break/rip" },
+        { "word": "破産", "furigana": "はさん", "meaning": "bankruptcy" },
+        { "word": "破る", "furigana": "やぶる", "meaning": "break/rip/violate (something)" }
+      ]
+    },
+    {
+      "number": 498,
+      "character": "処",
+      "stroke_count": 5,
+      "on_readings": ["ショ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "処理", "furigana": "しょり", "meaning": "disposal/processing" },
+        { "word": "処分", "furigana": "しょぶん", "meaning": "disposal/punishment" },
+        { "word": "処置", "furigana": "しょち", "meaning": "management/measure" }
+      ]
+    }
+  ]
+}

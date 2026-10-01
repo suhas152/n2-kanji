@@ -1,0 +1,173 @@
+{
+  "week": 5,
+  "chapter": 34,
+  "chapter_title": "インターホン・パソコン",
+  "kanji": [
+    {
+      "number": 440,
+      "character": "鳴",
+      "stroke_count": 14,
+      "on_readings": [],
+      "kun_readings": ["な-る", "な-らす", "な-く"],
+      "words": [
+        { "word": "鳴る", "furigana": "なる", "meaning": "ring/chime" },
+        { "word": "鳴らす", "furigana": "ならす", "meaning": "ring/chime (a bell)" },
+        { "word": "怒鳴る", "furigana": "どなる", "meaning": "shout" },
+        { "word": "鳴く", "furigana": "なく", "meaning": "chirp/croak/bleat (etc.)" }
+      ]
+    },
+    {
+      "number": 441,
+      "character": "訪",
+      "stroke_count": 11,
+      "on_readings": ["ホウ"],
+      "kun_readings": ["おとず-れる", "たず-ねる"],
+      "words": [
+        { "word": "訪問", "furigana": "ほうもん", "meaning": "a visit" },
+        { "word": "訪れる", "furigana": "おとずれる", "meaning": "visit/come (e.g. \"the day came\")" },
+        { "word": "訪ねる", "furigana": "たずねる", "meaning": "visit" }
+      ]
+    },
+    {
+      "number": 442,
+      "character": "呼",
+      "stroke_count": 8,
+      "on_readings": ["コ"],
+      "kun_readings": ["よ-ぶ"],
+      "words": [
+        { "word": "呼吸", "furigana": "こきゅう", "meaning": "respiration" },
+        { "word": "呼ぶ", "furigana": "よぶ", "meaning": "call" },
+        { "word": "呼び出す", "furigana": "よびだす", "meaning": "call/summon" }
+      ]
+    },
+    {
+      "number": 443,
+      "character": "警",
+      "stroke_count": 19,
+      "on_readings": ["ケイ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "警官", "furigana": "けいかん", "meaning": "a police officer" },
+        { "word": "警備", "furigana": "けいび", "meaning": "security" },
+        { "word": "警察", "furigana": "けいさつ", "meaning": "police" }
+      ]
+    },
+    {
+      "number": 444,
+      "character": "報",
+      "stroke_count": 12,
+      "on_readings": ["ホウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "警報", "furigana": "けいほう", "meaning": "warning/alarm" },
+        { "word": "予報", "furigana": "よほう", "meaning": "a forecast" },
+        { "word": "情報", "furigana": "じょうほう", "meaning": "information" },
+        { "word": "電報", "furigana": "でんぽう", "meaning": "a telegram" }
+      ]
+    },
+    {
+      "number": 445,
+      "character": "裏",
+      "stroke_count": 13,
+      "on_readings": [],
+      "kun_readings": ["うら"],
+      "words": [
+        { "word": "裏", "furigana": "うら", "meaning": "the reverse/back" },
+        { "word": "裏口", "furigana": "うらぐち", "meaning": "a back door" },
+        { "word": "裏切る", "furigana": "うらぎる", "meaning": "betray" },
+        { "word": "裏表", "furigana": "うらおもて", "meaning": "both sides" }
+      ]
+    },
+    {
+      "number": 446,
+      "character": "差",
+      "stroke_count": 10,
+      "on_readings": ["サ"],
+      "kun_readings": ["さ-す"],
+      "words": [
+        { "word": "交差点", "furigana": "こうさてん", "meaning": "an intersection" },
+        { "word": "差出人", "furigana": "さしだしにん", "meaning": "a sender" },
+        { "word": "差", "furigana": "さ", "meaning": "difference" },
+        { "word": "人差し指", "furigana": "ひとさしゆび", "meaning": "an index finger" },
+        { "word": "差別", "furigana": "さべつ", "meaning": "discrimination" }
+      ]
+    },
+    {
+      "number": 447,
+      "character": "続",
+      "stroke_count": 13,
+      "on_readings": ["ゾク"],
+      "kun_readings": ["つづ-く", "つづ-ける"],
+      "words": [
+        { "word": "接続", "furigana": "せつぞく", "meaning": "a connection" },
+        { "word": "継続", "furigana": "けいぞく", "meaning": "continuity" },
+        { "word": "続く", "furigana": "つづく", "meaning": "continue" },
+        { "word": "手続き", "furigana": "てつづき", "meaning": "a procedure" }
+      ]
+    },
+    {
+      "number": 448,
+      "character": "辞",
+      "stroke_count": 13,
+      "on_readings": ["ジ"],
+      "kun_readings": ["や-める"],
+      "words": [
+        { "word": "辞書", "furigana": "じしょ", "meaning": "a dictionary/lexicon" },
+        { "word": "辞典", "furigana": "じてん", "meaning": "a dictionary" },
+        { "word": "辞表", "furigana": "じひょう", "meaning": "resignation" },
+        { "word": "辞める", "furigana": "やめる", "meaning": "resign/retire" }
+      ]
+    },
+    {
+      "number": 449,
+      "character": "面",
+      "stroke_count": 9,
+      "on_readings": ["メン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "画面", "furigana": "がめん", "meaning": "a screen" },
+        { "word": "方面", "furigana": "ほうめん", "meaning": "direction" },
+        { "word": "正面", "furigana": "しょうめん", "meaning": "front" },
+        { "word": "面積", "furigana": "めんせき", "meaning": "an (surface) area" }
+      ]
+    },
+    {
+      "number": 450,
+      "character": "操",
+      "stroke_count": 16,
+      "on_readings": ["ソウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "操作", "furigana": "そうさ", "meaning": "operation/manipulation" },
+        { "word": "体操", "furigana": "たいそう", "meaning": "exercise/gymnastics" }
+      ]
+    },
+    {
+      "number": 451,
+      "character": "実",
+      "stroke_count": 8,
+      "on_readings": ["ジツ"],
+      "kun_readings": ["み", "み-のる"],
+      "words": [
+        { "word": "実行", "furigana": "じっこう", "meaning": "practice/action" },
+        { "word": "実験", "furigana": "じっけん", "meaning": "an experiment" },
+        { "word": "事実", "furigana": "じじつ", "meaning": "a fact" },
+        { "word": "実", "furigana": "み", "meaning": "a fruit/nut" },
+        { "word": "実る", "furigana": "みのる", "meaning": "bear fruit" }
+      ]
+    },
+    {
+      "number": 452,
+      "character": "列",
+      "stroke_count": 6,
+      "on_readings": ["レツ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "列", "furigana": "れつ", "meaning": "a line/queue" },
+        { "word": "行列", "furigana": "ぎょうれつ", "meaning": "a procession" },
+        { "word": "列車", "furigana": "れっしゃ", "meaning": "a train" },
+        { "word": "列島", "furigana": "れっとう", "meaning": "an archipelago" }
+      ]
+    }
+  ]
+}

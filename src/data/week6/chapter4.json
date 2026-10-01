@@ -1,0 +1,177 @@
+{
+  "week": 6,
+  "chapter": 39,
+  "chapter_title": "地図",
+  "kanji": [
+    {
+      "number": 513,
+      "character": "辺",
+      "stroke_count": 5,
+      "on_readings": ["ヘン"],
+      "kun_readings": ["あた-り", "べ"],
+      "words": [
+        { "word": "この辺", "furigana": "このへん", "meaning": "around here" },
+        { "word": "辺り", "furigana": "あたり", "meaning": "around" },
+        { "word": "周辺", "furigana": "しゅうへん", "meaning": "vicinity" },
+        { "word": "海辺", "furigana": "うみべ", "meaning": "a beach" }
+      ]
+    },
+    {
+      "number": 514,
+      "character": "察",
+      "stroke_count": 14,
+      "on_readings": ["サツ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "警察", "furigana": "けいさつ", "meaning": "police" },
+        { "word": "診察", "furigana": "しんさつ", "meaning": "a (medical) consultation" }
+      ]
+    },
+    {
+      "number": 515,
+      "character": "役",
+      "stroke_count": 7,
+      "on_readings": ["ヤク", "エキ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "役所", "furigana": "やくしょ", "meaning": "a government office" },
+        { "word": "役者", "furigana": "やくしゃ", "meaning": "an actor" },
+        { "word": "役目", "furigana": "やくめ", "meaning": "a role / duty" },
+        { "word": "現役", "furigana": "げんえき", "meaning": "active service" }
+      ]
+    },
+    {
+      "number": 516,
+      "character": "美",
+      "stroke_count": 9,
+      "on_readings": ["ビ"],
+      "kun_readings": ["うつく-しい"],
+      "words": [
+        { "word": "美人", "furigana": "びじん", "meaning": "a beautiful woman" },
+        { "word": "美しい", "furigana": "うつくしい", "meaning": "beautiful" },
+        { "word": "美容", "furigana": "びよう", "meaning": "beauty treatment" }
+      ]
+    },
+    {
+      "number": 517,
+      "character": "術",
+      "stroke_count": 11,
+      "on_readings": ["ジュツ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "美術", "furigana": "びじゅつ", "meaning": "(fine) art" },
+        { "word": "手術", "furigana": "しゅじゅつ", "meaning": "surgery/operation" },
+        { "word": "技術", "furigana": "ぎじゅつ", "meaning": "technique/technology" },
+        { "word": "芸術", "furigana": "げいじゅつ", "meaning": "art" }
+      ]
+    },
+    {
+      "number": 518,
+      "character": "坂",
+      "stroke_count": 7,
+      "on_readings": [],
+      "kun_readings": ["さか"],
+      "words": [
+        { "word": "坂", "furigana": "さか", "meaning": "hill/slope" },
+        { "word": "〜坂", "furigana": "〜ざか", "meaning": "... Hill" }
+      ]
+    },
+    {
+      "number": 519,
+      "character": "寺",
+      "stroke_count": 6,
+      "on_readings": ["ジ"],
+      "kun_readings": ["てら"],
+      "words": [
+        { "word": "〜寺", "furigana": "〜じ", "meaning": "... Temple" },
+        { "word": "寺", "furigana": "てら", "meaning": "a temple" },
+        { "word": "寺院", "furigana": "じいん", "meaning": "a temple / an abbey" }
+      ]
+    },
+    {
+      "number": 520,
+      "character": "湾",
+      "stroke_count": 12,
+      "on_readings": ["ワン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "湾", "furigana": "わん", "meaning": "a bay" },
+        { "word": "〜湾", "furigana": "〜わん", "meaning": "... Bay" }
+      ]
+    },
+    {
+      "number": 521,
+      "character": "島",
+      "stroke_count": 10,
+      "on_readings": ["トウ"],
+      "kun_readings": ["しま"],
+      "words": [
+        { "word": "〜島", "furigana": "〜とう", "meaning": "... Island" },
+        { "word": "列島", "furigana": "れっとう", "meaning": "an archipelago" },
+        { "word": "半島", "furigana": "はんとう", "meaning": "a peninsula" },
+        { "word": "島", "furigana": "しま", "meaning": "an island" }
+      ]
+    },
+    {
+      "number": 522,
+      "character": "岸",
+      "stroke_count": 8,
+      "on_readings": ["ガン"],
+      "kun_readings": ["きし"],
+      "words": [
+        { "word": "海岸", "furigana": "かいがん", "meaning": "a seashore" },
+        { "word": "岸", "furigana": "きし", "meaning": "a shore/bank" },
+        { "word": "湾岸", "furigana": "わんがん", "meaning": "a gulf" },
+        { "word": "川岸", "furigana": "かわぎし", "meaning": "a riverbank" }
+      ]
+    },
+    {
+      "number": 523,
+      "character": "園",
+      "stroke_count": 13,
+      "on_readings": ["エン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "公園", "furigana": "こうえん", "meaning": "a park" },
+        { "word": "遊園地", "furigana": "ゆうえんち", "meaning": "an amusement park" },
+        { "word": "動物園", "furigana": "どうぶつえん", "meaning": "zoo" },
+        { "word": "〜園", "furigana": "〜えん", "meaning": "... Park" }
+      ]
+    },
+    {
+      "number": 524,
+      "character": "湖",
+      "stroke_count": 12,
+      "on_readings": ["コ"],
+      "kun_readings": ["みずうみ"],
+      "words": [
+        { "word": "〜湖", "furigana": "〜こ", "meaning": "... Lake" },
+        { "word": "湖", "furigana": "みずうみ", "meaning": "a lake" }
+      ]
+    },
+    {
+      "number": 525,
+      "character": "城",
+      "stroke_count": 9,
+      "on_readings": ["ジョウ"],
+      "kun_readings": ["しろ"],
+      "words": [
+        { "word": "〜城", "furigana": "〜じょう", "meaning": "... Castle" },
+        { "word": "城", "furigana": "しろ", "meaning": "a castle" }
+      ]
+    },
+    {
+      "number": 526,
+      "character": "谷",
+      "stroke_count": 7,
+      "on_readings": ["コク"],
+      "kun_readings": ["たに"],
+      "words": [
+        { "word": "渓谷", "furigana": "けいこく", "meaning": "a gorge/ravine" },
+        { "word": "谷間", "furigana": "たにま", "meaning": "a valley/ravine" },
+        { "word": "谷", "furigana": "たに", "meaning": "a valley" },
+        { "word": "谷川", "furigana": "たにかわ", "meaning": "a mountain stream" }
+      ]
+    }
+  ]
+}

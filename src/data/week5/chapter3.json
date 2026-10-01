@@ -1,0 +1,179 @@
+{
+  "week": 5,
+  "chapter": 31,
+  "chapter_title": "家庭用品 洗剤②",
+  "kanji": [
+    {
+      "number": 400,
+      "character": "途",
+      "stroke_count": 10,
+      "on_readings": ["ト"],
+      "kun_readings": [],
+      "words": [
+        { "word": "用途", "furigana": "ようと", "meaning": "a use" },
+        { "word": "途中", "furigana": "とちゅう", "meaning": "on the way / part way" },
+        { "word": "中途", "furigana": "ちゅうと", "meaning": "midway/unfinished" },
+        { "word": "途端", "furigana": "とたん", "meaning": "just as (...something happened)" }
+      ]
+    },
+    {
+      "number": 401,
+      "character": "具",
+      "stroke_count": 8,
+      "on_readings": ["グ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "道具", "furigana": "どうぐ", "meaning": "a tool" },
+        { "word": "具合", "furigana": "ぐあい", "meaning": "condition" },
+        { "word": "家具", "furigana": "かぐ", "meaning": "furniture" },
+        { "word": "雨具", "furigana": "あまぐ", "meaning": "rain gear" }
+      ]
+    },
+    {
+      "number": 402,
+      "character": "床",
+      "stroke_count": 7,
+      "on_readings": ["ショウ"],
+      "kun_readings": ["ゆか", "とこ"],
+      "words": [
+        { "word": "起床", "furigana": "きしょう", "meaning": "getting up" },
+        { "word": "床屋", "furigana": "とこや", "meaning": "a barbershop" },
+        { "word": "床の間", "furigana": "とこのま", "meaning": "alcove (a place for traditional pictures and ornaments)" },
+        { "word": "床", "furigana": "ゆか", "meaning": "floor" }
+      ]
+    },
+    {
+      "number": 403,
+      "character": "壁",
+      "stroke_count": 16,
+      "on_readings": [],
+      "kun_readings": ["かべ"],
+      "words": [
+        { "word": "壁", "furigana": "かべ", "meaning": "wall" }
+      ]
+    },
+    {
+      "number": 404,
+      "character": "乾",
+      "stroke_count": 11,
+      "on_readings": ["カン"],
+      "kun_readings": ["かわ-く", "かわ-かす"],
+      "words": [
+        { "word": "乾電池", "furigana": "かんでんち", "meaning": "a dry cell battery" },
+        { "word": "乾く", "furigana": "かわく", "meaning": "dry" },
+        { "word": "乾かす", "furigana": "かわかす", "meaning": "dry something" }
+      ]
+    },
+    {
+      "number": 405,
+      "character": "布",
+      "stroke_count": 5,
+      "on_readings": ["フ"],
+      "kun_readings": ["ぬの"],
+      "words": [
+        { "word": "毛布", "furigana": "もうふ", "meaning": "a blanket" },
+        { "word": "分布", "furigana": "ぶんぷ", "meaning": "distribution" },
+        { "word": "座布団", "furigana": "ざぶとん", "meaning": "zabuton; square Japanese floor cushion" },
+        { "word": "布", "furigana": "ぬの", "meaning": "a cloth" }
+      ]
+    },
+    {
+      "number": 406,
+      "character": "柱",
+      "stroke_count": 9,
+      "on_readings": ["チュウ"],
+      "kun_readings": ["はしら"],
+      "words": [
+        { "word": "電柱", "furigana": "でんちゅう", "meaning": "a telegraph pole" },
+        { "word": "柱", "furigana": "はしら", "meaning": "a pillar/post" }
+      ]
+    },
+    {
+      "number": 407,
+      "character": "虫",
+      "stroke_count": 6,
+      "on_readings": ["チュウ"],
+      "kun_readings": ["むし"],
+      "words": [
+        { "word": "防虫剤", "furigana": "ぼうちゅうざい", "meaning": "insect repellant" },
+        { "word": "殺虫剤", "furigana": "さっちゅうざい", "meaning": "an insecticide" },
+        { "word": "虫", "furigana": "むし", "meaning": "insect" },
+        { "word": "虫歯", "furigana": "むしば", "meaning": "a decayed tooth" }
+      ]
+    },
+    {
+      "number": 408,
+      "character": "歯",
+      "stroke_count": 12,
+      "on_readings": ["シ"],
+      "kun_readings": ["は"],
+      "words": [
+        { "word": "歯科", "furigana": "しか", "meaning": "dentistry" },
+        { "word": "歯周病", "furigana": "ししゅうびょう", "meaning": "periodontal disease" },
+        { "word": "歯医者", "furigana": "はいしゃ", "meaning": "a dentist" },
+        { "word": "歯車", "furigana": "はぐるま", "meaning": "a toothed wheel" },
+        { "word": "歯磨き", "furigana": "はみがき", "meaning": "tooth brushing" }
+      ]
+    },
+    {
+      "number": 409,
+      "character": "防",
+      "stroke_count": 7,
+      "on_readings": ["ボウ"],
+      "kun_readings": ["ふせ-ぐ"],
+      "words": [
+        { "word": "予防", "furigana": "よぼう", "meaning": "prevention/precaution" },
+        { "word": "消防", "furigana": "しょうぼう", "meaning": "fire fighting" },
+        { "word": "防止", "furigana": "ぼうし", "meaning": "prevention" },
+        { "word": "防ぐ", "furigana": "ふせぐ", "meaning": "prevent" }
+      ]
+    },
+    {
+      "number": 410,
+      "character": "磨",
+      "stroke_count": 16,
+      "on_readings": [],
+      "kun_readings": ["みが-く"],
+      "words": [
+        { "word": "磨く", "furigana": "みがく", "meaning": "polish/brush" },
+        { "word": "歯磨き", "furigana": "はみがき", "meaning": "tooth brushing" }
+      ]
+    },
+    {
+      "number": 411,
+      "character": "抜",
+      "stroke_count": 7,
+      "on_readings": ["バツ"],
+      "kun_readings": ["ぬ-く", "ぬ-ける"],
+      "words": [
+        { "word": "抜群", "furigana": "ばつぐん", "meaning": "outstanding/unrivaled" },
+        { "word": "抜ける", "furigana": "ぬける", "meaning": "fall out / be missing" },
+        { "word": "抜く", "furigana": "ぬく", "meaning": "remove/extract/omit" },
+        { "word": "追い抜く", "furigana": "おいぬく", "meaning": "leave behind" }
+      ]
+    },
+    {
+      "number": 412,
+      "character": "悩",
+      "stroke_count": 10,
+      "on_readings": [],
+      "kun_readings": ["なや-む"],
+      "words": [
+        { "word": "悩む", "furigana": "なやむ", "meaning": "worry (about something)" },
+        { "word": "悩み", "furigana": "なやみ", "meaning": "a worry/distress" }
+      ]
+    },
+    {
+      "number": 413,
+      "character": "髪",
+      "stroke_count": 14,
+      "on_readings": [],
+      "kun_readings": ["かみ"],
+      "words": [
+        { "word": "髪", "furigana": "かみ", "meaning": "hair" },
+        { "word": "髪の毛", "furigana": "かみのけ", "meaning": "a hair" },
+        { "word": "白髪", "furigana": "しらが", "meaning": "white/gray hair" }
+      ]
+    }
+  ]
+}

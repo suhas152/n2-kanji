@@ -1,0 +1,187 @@
+{
+  "week": 5,
+  "chapter": 35,
+  "chapter_title": "漢字を使って遊ぼう",
+  "kanji": [
+    {
+      "number": 453,
+      "character": "棒",
+      "stroke_count": 12,
+      "on_readings": ["ボウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "棒", "furigana": "ぼう", "meaning": "a pole/stick" }
+      ]
+    },
+    {
+      "number": 454,
+      "character": "枯",
+      "stroke_count": 9,
+      "on_readings": [],
+      "kun_readings": ["か-れる"],
+      "words": [
+        { "word": "枯れる", "furigana": "かれる", "meaning": "wither" }
+      ]
+    },
+    {
+      "number": 455,
+      "character": "舟",
+      "stroke_count": 6,
+      "on_readings": [],
+      "kun_readings": ["ふね"],
+      "words": [
+        { "word": "舟", "furigana": "ふね", "meaning": "a boat" }
+      ]
+    },
+    {
+      "number": 456,
+      "character": "貧",
+      "stroke_count": 11,
+      "on_readings": [],
+      "kun_readings": ["まず-しい"],
+      "words": [
+        { "word": "貧しい", "furigana": "まずしい", "meaning": "poor" }
+      ]
+    },
+    {
+      "number": 457,
+      "character": "昔",
+      "stroke_count": 8,
+      "on_readings": [],
+      "kun_readings": ["むかし"],
+      "words": [
+        { "word": "昔", "furigana": "むかし", "meaning": "long ago / old times" }
+      ]
+    },
+    {
+      "number": 458,
+      "character": "岩",
+      "stroke_count": 8,
+      "on_readings": ["ガン"],
+      "kun_readings": ["いわ"],
+      "words": [
+        { "word": "岩", "furigana": "いわ", "meaning": "rock" }
+      ]
+    },
+    {
+      "number": 459,
+      "character": "泣",
+      "stroke_count": 8,
+      "on_readings": [],
+      "kun_readings": ["な-く"],
+      "words": [
+        { "word": "泣く", "furigana": "なく", "meaning": "cry/weep" }
+      ]
+    },
+    {
+      "number": 460,
+      "character": "咲",
+      "stroke_count": 9,
+      "on_readings": [],
+      "kun_readings": ["さ-く"],
+      "words": [
+        { "word": "咲く", "furigana": "さく", "meaning": "bloom" }
+      ]
+    },
+    {
+      "number": 461,
+      "character": "司",
+      "stroke_count": 5,
+      "on_readings": ["シ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "司会", "furigana": "しかい", "meaning": "moderation/facilitation (of a meeting)" }
+      ]
+    },
+    {
+      "number": 462,
+      "character": "念",
+      "stroke_count": 8,
+      "on_readings": ["ネン"],
+      "kun_readings": [],
+      "words": [
+        { "word": "残念", "furigana": "ざんねん", "meaning": "regret/disappointment" }
+      ]
+    },
+    {
+      "number": 463,
+      "character": "涼",
+      "stroke_count": 11,
+      "on_readings": [],
+      "kun_readings": ["すず-しい", "すす-む"],
+      "words": [
+        { "word": "涼しい", "furigana": "すずしい", "meaning": "cool" }
+      ]
+    },
+    {
+      "number": 464,
+      "character": "散",
+      "stroke_count": 12,
+      "on_readings": ["サン"],
+      "kun_readings": ["ち-る", "ち-らす", "ち-らかす"],
+      "words": [
+        { "word": "散歩", "furigana": "さんぽ", "meaning": "a walk/stroll" }
+      ]
+    },
+    {
+      "number": 465,
+      "character": "吹",
+      "stroke_count": 7,
+      "on_readings": [],
+      "kun_readings": ["ふ-く"],
+      "words": [
+        { "word": "吹く", "furigana": "ふく", "meaning": "blow" }
+      ]
+    },
+    {
+      "number": 466,
+      "character": "坊",
+      "stroke_count": 7,
+      "on_readings": ["ボウ", "ポッ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "赤ん坊", "furigana": "あかんぼう", "meaning": "baby" }
+      ]
+    },
+    {
+      "number": 467,
+      "character": "怒",
+      "stroke_count": 9,
+      "on_readings": [],
+      "kun_readings": ["おこ-る"],
+      "words": [
+        { "word": "怒る", "furigana": "おこる", "meaning": "be angry" }
+      ]
+    },
+    {
+      "number": 468,
+      "character": "畜",
+      "stroke_count": 10,
+      "on_readings": ["チク"],
+      "kun_readings": [],
+      "words": [
+        { "word": "家畜", "furigana": "かちく", "meaning": "livestock" }
+      ]
+    },
+    {
+      "number": 469,
+      "character": "才",
+      "stroke_count": 3,
+      "on_readings": ["サイ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "才能", "furigana": "さいのう", "meaning": "ability/talent" }
+      ]
+    },
+    {
+      "number": 470,
+      "character": "珍",
+      "stroke_count": 9,
+      "on_readings": [],
+      "kun_readings": ["めずら-しい"],
+      "words": [
+        { "word": "珍しい", "furigana": "めずらしい", "meaning": "rare" }
+      ]
+    }
+  ]
+}

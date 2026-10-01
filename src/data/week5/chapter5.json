@@ -1,0 +1,165 @@
+{
+  "week": 5,
+  "chapter": 33,
+  "chapter_title": "食品",
+  "kanji": [
+    {
+      "number": 427,
+      "character": "賞",
+      "stroke_count": 15,
+      "on_readings": ["ショウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "賞", "furigana": "しょう", "meaning": "a prize" },
+        { "word": "賞金", "furigana": "しょうきん", "meaning": "a prize (money)" },
+        { "word": "賞品", "furigana": "しょうひん", "meaning": "prize (goods)" },
+        { "word": "賞味期限", "furigana": "しょうみきげん", "meaning": "best-before date" }
+      ]
+    },
+    {
+      "number": 428,
+      "character": "庫",
+      "stroke_count": 10,
+      "on_readings": ["コ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "金庫", "furigana": "きんこ", "meaning": "a safe" },
+        { "word": "車庫", "furigana": "しゃこ", "meaning": "a garage" },
+        { "word": "冷蔵庫", "furigana": "れいぞうこ", "meaning": "a refrigerator" }
+      ]
+    },
+    {
+      "number": 429,
+      "character": "造",
+      "stroke_count": 10,
+      "on_readings": ["ゾウ"],
+      "kun_readings": ["つく-る"],
+      "words": [
+        { "word": "製造", "furigana": "せいぞう", "meaning": "manufacture" },
+        { "word": "改造", "furigana": "かいぞう", "meaning": "conversion/adaptation" },
+        { "word": "造る", "furigana": "つくる", "meaning": "make" }
+      ]
+    },
+    {
+      "number": 430,
+      "character": "費",
+      "stroke_count": 12,
+      "on_readings": ["ヒ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "費用", "furigana": "ひよう", "meaning": "an expense/cost" },
+        { "word": "〜費", "furigana": "〜ひ", "meaning": "expense/cost" },
+        { "word": "消費", "furigana": "しょうひ", "meaning": "consumption" }
+      ]
+    },
+    {
+      "number": 431,
+      "character": "可",
+      "stroke_count": 5,
+      "on_readings": ["カ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "可", "furigana": "か", "meaning": "acceptable/possible" },
+        { "word": "不可", "furigana": "ふか", "meaning": "unacceptable" },
+        { "word": "可能(な)", "furigana": "かのう(な)", "meaning": "possible" },
+        { "word": "可決", "furigana": "かけつ", "meaning": "approval" }
+      ]
+    },
+    {
+      "number": 432,
+      "character": "秒",
+      "stroke_count": 9,
+      "on_readings": ["ビョウ"],
+      "kun_readings": [],
+      "words": [
+        { "word": "秒", "furigana": "びょう", "meaning": "a second" }
+      ]
+    },
+    {
+      "number": 433,
+      "character": "身",
+      "stroke_count": 7,
+      "on_readings": ["シン"],
+      "kun_readings": ["み"],
+      "words": [
+        { "word": "自身", "furigana": "じしん", "meaning": "oneself" },
+        { "word": "出身", "furigana": "しゅっしん", "meaning": "coming from ..." },
+        { "word": "身体", "furigana": "しんたい", "meaning": "body" },
+        { "word": "身長", "furigana": "しんちょう", "meaning": "height" },
+        { "word": "中身", "furigana": "なかみ", "meaning": "content" },
+        { "word": "刺身", "furigana": "さしみ", "meaning": "sashimi (sliced raw fish)" }
+      ]
+    },
+    {
+      "number": 434,
+      "character": "召",
+      "stroke_count": 5,
+      "on_readings": [],
+      "kun_readings": ["め-す"],
+      "words": [
+        { "word": "召し上がる", "furigana": "めしあがる", "meaning": "eat (polite form)" }
+      ]
+    },
+    {
+      "number": 435,
+      "character": "杯",
+      "stroke_count": 8,
+      "on_readings": ["ハイ"],
+      "kun_readings": ["さかずき"],
+      "words": [
+        { "word": "〜杯", "furigana": "〜はい", "meaning": "... cups" },
+        { "word": "乾杯", "furigana": "かんぱい", "meaning": "cheers!" },
+        { "word": "杯", "furigana": "さかずき", "meaning": "sake cup" }
+      ]
+    },
+    {
+      "number": 436,
+      "character": "沸",
+      "stroke_count": 8,
+      "on_readings": ["フツ"],
+      "kun_readings": ["わ-く", "わ-かす"],
+      "words": [
+        { "word": "沸騰", "furigana": "ふっとう", "meaning": "boiling" },
+        { "word": "沸く", "furigana": "わく", "meaning": "boil" },
+        { "word": "沸かす", "furigana": "わかす", "meaning": "boil something" }
+      ]
+    },
+    {
+      "number": 437,
+      "character": "粉",
+      "stroke_count": 10,
+      "on_readings": ["フン"],
+      "kun_readings": ["こな"],
+      "words": [
+        { "word": "粉末", "furigana": "ふんまつ", "meaning": "powder" },
+        { "word": "花粉", "furigana": "かふん", "meaning": "pollen" },
+        { "word": "小麦粉", "furigana": "こむぎこ", "meaning": "(wheat) flour" },
+        { "word": "粉", "furigana": "こな", "meaning": "powder/flour" }
+      ]
+    },
+    {
+      "number": 438,
+      "character": "末",
+      "stroke_count": 5,
+      "on_readings": ["マツ"],
+      "kun_readings": ["すえ"],
+      "words": [
+        { "word": "月末", "furigana": "げつまつ", "meaning": "the end of the month" },
+        { "word": "末", "furigana": "すえ", "meaning": "the end" },
+        { "word": "末っ子", "furigana": "すえっこ", "meaning": "youngest child" }
+      ]
+    },
+    {
+      "number": 439,
+      "character": "栄",
+      "stroke_count": 9,
+      "on_readings": ["エイ"],
+      "kun_readings": ["さか-える"],
+      "words": [
+        { "word": "栄養", "furigana": "えいよう", "meaning": "nutrition" },
+        { "word": "繁栄", "furigana": "はんえい", "meaning": "prosperity" },
+        { "word": "栄える", "furigana": "さかえる", "meaning": "flourish/prosper" }
+      ]
+    }
+  ]
+}
